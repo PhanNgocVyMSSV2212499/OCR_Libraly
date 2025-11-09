@@ -134,7 +134,7 @@ python Demo/simple_ocr.py
         OCR COMPARISON TOOL
 ========================================
 1. Test 1 ảnh (nhanh - có ground truth)
-2. Test toàn bộ thư mục Bia_sach (50 ảnh)
+2. Test toàn bộ thư mục Bia_sach (200 ảnh)
 3. Test thư mục tùy chỉnh
 4. Thoát
 ========================================
@@ -159,7 +159,7 @@ Nhập tên ảnh (VD: anh_mat_trang.jpg): frieren_vol1.jpg
 
 Chọn **Option 2** để test tất cả ảnh trong `Bia_sach/`:
 
-- Xử lý 50 ảnh bìa sách
+- Xử lý 200 ảnh bìa sách
 - Tạo báo cáo JSON
 - Tạo 7 loại biểu đồ so sánh
 - Lưu kết quả vào `Results/`
@@ -240,7 +240,7 @@ OCR_Library/
 │   ├── gocr_module.py            # GOCR
 │   ├── keras_module.py           # Keras OCR
 │   └── opencv_module.py          # Text detection
-├── Bia_sach/                      # Dataset (50 ảnh)
+├── Bia_sach/                      # Dataset (200 ảnh)
 ├── Results/                       # Kết quả
 │   ├── Charts/                   # Biểu đồ
 │   └── Json/                     # Báo cáo JSON

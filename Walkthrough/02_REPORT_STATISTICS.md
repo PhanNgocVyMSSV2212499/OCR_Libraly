@@ -31,7 +31,7 @@ Hệ thống đánh giá độ chính xác OCR bằng cách:
 ### Dataset
 
 **Tên:** Bìa Sách Tiếng Việt Dataset
-- **Số lượng:** 50 ảnh bìa sách
+- **Số lượng:** 200 ảnh bìa sách
 - **Đặc điểm:**
   - Ngôn ngữ: Tiếng Việt và Tiếng Anh
   - Font chữ: Đa dạng (serif, sans-serif, handwriting)
@@ -372,14 +372,14 @@ processing_time = time.time() - start_time
 
 ```
 Nghiên cứu này so sánh hiệu suất của 5 OCR engines trên dataset 
-gồm 50 ảnh bìa sách tiếng Việt. Các engines được đánh giá bao gồm:
+gồm 200 ảnh bìa sách tiếng Việt. Các engines được đánh giá bao gồm:
 EasyOCR, Tesseract, DocTR, GOCR, và Keras OCR.
 ```
 
 ### Phần 2: Phương Pháp
 
 ```
-Dataset: 50 ảnh bìa sách tiếng Việt, độ phân giải 1000x1500 - 2000x3000 pixels.
+Dataset: 200 ảnh bìa sách tiếng Việt, độ phân giải 1000x1500 - 2000x3000 pixels.
 
 Ground Truth: Được tạo thủ công, ghi lại toàn bộ text trên mỗi bìa sách.
 
@@ -425,13 +425,16 @@ phù hợp cho ứng dụng real-time.
 
 Keras OCR và GOCR cho kết quả kém, không phù hợp với bìa sách tiếng Việt.
 
+Dataset gồm 200 ảnh bìa sách đa dạng về font chữ, màu sắc, và layout,
+đại diện tốt cho các loại bìa sách thực tế tại Việt Nam.
+
 (Xem Hình 2: engine_comparison_*_speed_vs_accuracy.png)
 ```
 
 ### Phần 5: Kết Luận
 
 ```
-Nghiên cứu đã so sánh 5 OCR engines trên dataset bìa sách tiếng Việt.
+Nghiên cứu đã so sánh 5 OCR engines trên dataset 200 ảnh bìa sách tiếng Việt.
 EasyOCR đạt accuracy cao nhất với F1-Score 85.37%, phù hợp cho ứng dụng 
 yêu cầu độ chính xác cao. Tesseract là lựa chọn tốt cho ứng dụng real-time 
 với F1-Score 72.31% và thời gian xử lý nhanh (1.23s).
