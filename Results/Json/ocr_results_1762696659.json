@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-09 20:57:38",
+    "total_images": 182,
+    "total_processing_time": 18666.60304236412
+  },
+  "results": [
+    {
+      "image_name": "20231228_154453.jpg",
+      "image_path": "C:\\Users\\pc\\Videos\\OCR_Library\\Bia_sach\\20231228_154453.jpg",
+      "easyocr": {
+        "success": true,
+        "text": "NGUYẾN NHÂT ÁNH Đỗ minh họa Đào Mộng Truyện MS Cuốn sách bán chạy nhất Hội sách TP. Hồ Chí Minh 2010 (Tái bản lần thứ 34) DonGA Hoàng Tường",
+        "confidence": 0.7438668134977388,
+        "word_count": 12,
+        "processing_time": 5.226081132888794,
+        "engine": "EasyOCR",
+        "details": [
+          [
+            [
+              [
+                

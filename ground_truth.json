@@ -1,0 +1,780 @@
+{
+  "images": [
+    {
+      "filename": "bia_manga.jpg",
+      "ground_truth": "BẢN ĐẶC BIỆT FRIEREN PHÁP SƯ TIỄN TÁNG VOL 1-2 NGUYÊN TÁC KANEHITO YAMADA MINH HỌA TSUKASA ABE GOU DỊCH NHÀ XUẤT BẢN KIM ĐỒNG"
+    },
+    {
+      "filename": "BeStart.jpg",
+      "ground_truth": "SONG NGỮ ANH - VIỆT TÓ MUỐN TRỞ THÀNH NGÔI SAO! Tác giả: Baek Hee Na & Kim Hyang Soo Dịch giả: Lạc Tiên NHÀ XUẤT BẢN KIM ĐỒNG"
+    },
+    {
+      "filename": "Bia_sach_Harry_Potter_phan_2.jpg",
+      "ground_truth": "J.K. ROWLING LÝ LAN dịch Tái bản lần thứ 24 Harry Potter và Phòng Chứa Bí Mật NHÀ XUẤT BẢN TRẺ"
+    },
+    {
+      "filename": "BucThu.jpg",
+      "ground_truth": "38 bức thư Rockefeller viết cho con trai Thanh Hương (biên dịch) NHÀ XUẤT BẢN VĂN HỌC 18 NGUYỄN TRƯỜNG TỘ - BA ĐÌNH - HÀ NỘI Điện thoại: 024.37161518 - 024.37163409, Fax: 024.38294781 Website: www.nxbvanhoc.com; www.nxbvanhoc.com.vn E-mail: info@nxbvanhoc.com.vn * Chi nhánh tại Tp. Hồ Chí Minh 290/20 Nam Kỳ Khởi Nghĩa - Quận 3 Điện thoại: 028.38469858, Fax: 028.38483481 * Văn phòng đại diện tại thành phố Đà Nẵng 344 đường Trưng Nữ Vương - thành phố Đà Nẵng Điện thoại - Fax: 0236 3888333 Chịu trách nhiệm xuất bản GIÁM ĐỐC - TỔNG BIÊN TẬP NGÔ THƯ PHƯƠNG Biên tập: ĐẶNG THỊ HÀ Vẽ bìa: TUỔNG LAM Trình bày: NHƯ LOAN Sửa bản in: THƯ PHƯƠNG Liên kết xuất bản: CÔNG TY CỔ PHẦN SBOOKS 124 Đường số 2, KDC Vạn Phúc, thành phố Thủ Đức, Tp. Hồ Chí Minh Sbooks trân trọng cảm ơn mọi ý kiến đóng góp của độc giả. Mọi thông tin phản hồi vui lòng liên hệ: Facebook: www.facebook.com/Sbooks.vn Hotline: 0901360088 - Website: www.sbooks.vn In 50.000 cuốn, khổ 14,5 x 20,5 cm tại Xi nghiệp In Fahasa Địa chỉ: 774 Trường Chinh, P.15, Q. Tân Bình, Tp. Hồ Chí Minh Số xác nhận ĐKXB: 107-2024/CXBIPH/25-02/VH, cấp ngày 11/01/2024. Quyết định xuất bản: 181/QĐ-VH, cấp ngày 23/02/2024. Mã ISBN: 978-604-976-489-9. In xong và nộp lưu chiểu năm 2024."
+    },
+    {
+      "filename": "BanhMiMay.jpg",
+      "ground_truth": "SONG NGỮ ANH - VIỆT BÁNH MÌ MÂY Tác giả: Baek Hee Na & Kim Hyang Soo Dịch giả: Nguyễn Kim Dung NHÀ XUẤT BẢN KIM ĐỒNG"
+    },
+    {
+      "filename": "banhMiMayN.jpg",
+      "ground_truth": "Original Korean Language edition was first published by Hansol Education 2011 Cloud Bread Cloud Bread Animation© 2011 GIMC, KBS, DPS, Cartoon, Hansol Education All Rights Reserved. This edition is arranged with Hansol Education through Pauline Kim Agency, Korea No part of this publication may be reproduced, stored in a retrieval system or transmitted in any form or by any means, mechanical, photocopying, recording, or otherwise without a prior written permission of the Proprietor or Copyright holder. Xuất bản theo hợp đồng chuyển nhượng bản quyền giữa Hansol Education Co., Ltd. và Nhà xuất bản Kim Đồng, 2013 Bản quyền bản song ngữ Anh - Việt thuộc về Nhà xuất bản Kim Đồng, 2014 Xử số bánh mì mây NHÀ XUẤT BẢN KIM ĐỒNG 55 Quang Trung, Q. Hai Bà Trưng, Hà Nội ĐT: 04 3943 4730 - 04 3942 8632 - FAX: 04 3822 9085 Website: http://www.nxbkimdong.com.vn - Email: kimdong@hn.vnn.vn CHI NHÁNH NXB KIM ĐỒNG TẠI MIỀN TRUNG 102 Ông Ích Khiêm, TP. Đà Nẵng ĐT: 0511 3812 333 - 0511 3812 335 - FAX: 0511 3812 334 Email: cnkimdongmt@nxbkimdong.com.vn CHI NHÁNH NXB KIM ĐỒNG TẠI TP. HỒ CHÍ MINH 276 Nguyễn Đình Chiểu, Q.3, TP. Hồ Chí Minh ĐT: 08 3930 3832 - FAX: 08 3930 5867 Email: cnkimdong@nxbkimdong.com.vn Chịu trách nhiệm xuất bản - Giám đốc: PHẠM QUANG VINH Chịu trách nhiệm bản thảo - Phó Giám đốc: NGUYỄN HUY THẮNG Biên tập: NGUYỄN THỊ KIM NGỌC Trình bày bìa: TÔ HỒNG THỦY Sửa bản: NGUYỄN MINH THỦY In 2.000 bản - Khổ 18,5 cm x 20,5 cm Tại Công ty TNHH In & DVTM Phú Thịnh Đăng ký kế hoạch xuất bản số: 745-2014/CXB/33-56/KĐ cấp ngày 18/4/2014 Quyết định xuất bản số: 267/QĐKĐ kí ngày 22/7/2014 In xong và nộp lưu chiểu tháng 8/2014"
+    },
+    {
+      "filename": "bia-sach-20-tuoi-tro-thanh-nguoi-biet-noi-gioi-lam-696x1107.jpg",
+      "ground_truth": "20 TUỔI TRỞ THÀNH NGƯỜI BIẾT NÓI GIỎI LÀM ALPHA BOOKS BIÊN SOẠN NHÀ XUẤT BẢN LAO ĐỘNG XÃ HỘI"
+    },
+    {
+      "filename": "Bia_sach_Harry_Potter_phan_1.jpg",
+      "ground_truth": "J.K. ROWLING HARRY POTTER VÀ HÒN ĐÁ PHÙ THỦY LÝ LAN DỊCH"
+    },
+    {
+      "filename": "bia_lightnovel.jpg",
+      "ground_truth": "ASAURA ĐỖ NGUYÊN DỊCH TIỆM CÀ PHÊ LYCORIS RECOIL ORDINARY DAYS MINH HỌA IMIGIMURU NHÀ XUẤT BẢN KIM ĐỒNG"
+    },
+    {
+      "filename": "BeStartN.jpg",
+      "ground_truth": "Original Korean Language edition was first published by Hansol Education 2011 I Want to Be a Star! Cloud Bread Animation© 2011 GIMC, KBS, DPS, Cartoon, Hansol Education All Rights Reserved. This edition is arranged with Hansol Education through Pauline Kim Agency, Korea No part of this publication may be reproduced, stored in a retrieval system or transmitted in any form or by any means, mechanical, photocopying, recording, or otherwise without a prior written permission of the Proprietor or Copyright holder. Xuất bản theo hợp đồng chuyển nhượng bản quyền giữa Hansol Education Co., Ltd. và Nhà xuất bản Kim Đồng, 2013 Bản quyền bản song ngữ Anh - Việt thuộc về Nhà xuất bản Kim Đồng, 2014 Xử số bánh mì mây TÓ MUỐN TRỞ THÀNH NGÔI SAO! NHÀ XUẤT BẢN KIM ĐỒNG 55 Quang Trung, Q. Hai Bà Trưng, Hà Nội ĐT: 04 3943 4730 - 04 3942 8632 - FAX: 04 3822 9085 Website: http://www.nxbkimdong.com.vn - Email: kimdong@hn.vnn.vn CHI NHÁNH NXB KIM ĐỒNG TẠI MIỀN TRUNG 102 Ông Ích Khiêm, TP. Đà Nẵng ĐT: 0511 3812 333 - 0511 3812 335 - FAX: 0511 3812 334 Email: cnkimdongmt@nxbkimdong.com.vn CHI NHÁNH NXB KIM ĐỒNG TẠI TP. HỒ CHÍ MINH 276 Nguyễn Đình Chiểu, Q.3, TP. Hồ Chí Minh ĐT: 08 3930 3832 - FAX: 08 3930 5867 Email: cnkimdong@nxbkimdong.com.vn Chịu trách nhiệm xuất bản - Giám đốc: PHẠM QUANG VINH Chịu trách nhiệm bản thảo - Phó Giám đốc: NGUYỄN HUY THẮNG Biên tập: NGUYỄN THỊ KIM NGỌC Trình bày bìa: TÔ HỒNG THỦY Sửa bản: NGUYỄN MINH THỦY In 2.000 bản - Khổ 18,5 cm x 20,5 cm Tại Công ty TNHH In & DVTM Phú Thịnh Đăng ký kế hoạch xuất bản số: 745-2014/CXB/33-56/KĐ cấp ngày 18/4/2014 Quyết định xuất bản số: 267/QĐKĐ kí ngày 22/7/2014 In xong và nộp lưu chiểu tháng 8/2014"
+    },
+    {
+      "filename": "bia-sach-thieu-nhi-2-tuelamlinh.jpg",
+      "ground_truth": "KAFKA VÀ CÔ BÚP BÊ LARISSA THEULE REBECCA GREEN TRẦN QUÂN BIÊN DỊCH NHÀ XUẤT BẢN LAO ĐỘNG"
+    },
+    {
+      "filename": "bia-ngu-van-lop-12.jpg",
+      "ground_truth": "NGUYỄN THANH THI (Chủ biên) NGUYỄN THÀNH NGỌC BẢO - TRẦN LÊ DUY - DƯƠNG THỊ HỒNG HIẾU PHẠM NGỌC LAN - TĂNG THỊ TUYẾT MAI - NGUYỄN THỊ HỒNG NAM PHẠM THỊ PHƯƠNG - NGUYỄN THỊ NGỌC THÚY - TRẦN LÊ HOÀ TRANH ĐINH PHÁN CẨM VÂN - PHAN THƯ VÂN Chân trời sáng tạo NGỮ VĂN 12 TẬP MỘT NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM"
+    },
+    {
+      "filename": "Cao.jpg",
+      "ground_truth": "BÁCH KHOA THƯ VÌ SAO? TẠI SAO MĂNG MỌC NHANH HƠN SAU KHI MƯA? Tác giả: Baek Hee Na & Kim Hyang Soo Dịch giả: Lạc Tiên NHÀ XUẤT BẢN KIM ĐỒNG"
+    },
+    {
+      "filename": "canhdieumathuat.jpg",
+      "ground_truth": "Mùa hè 7 tuổi ngọt ngào Cánh diều ma thuật NHÀ XUẤT BẢN KIM ĐỒNG"
+    },
+    {
+      "filename": "BucThuB.jpg",
+      "ground_truth": "38 bức thư Rockefeller viết cho Con Trai Thanh Hương biên dịch NHÀ XUẤT BẢN VĂN HỌC"
+    },
+    {
+      "filename": "ChoDoCUN.jpg",
+      "ground_truth": "La Belle Histoire de Mes 7 an C Fleurus Mame 2014 Xuất bản theo hợp đồng chuyển nhượng bản quyền giữa Fleurus Mame và Nhà xuất bản Kim Đồng, 2013 Bản quyền bản tiếng Việt thuộc về Nhà xuất bản Kim Đồng, 2014 Mùa hè 7 tuổi ngọt ngào Cánh diều ma thuật NHÀ XUẤT BẢN KIM ĐỒNG 55 Quang Trung, Q. Hai Bà Trưng, Hà Nội ĐT: 04 3943 4730 - 04 3942 8632 - FAX: 04 3822 9085 Website: http://www.nxbkimdong.com.vn - Email: kimdong@hn.vnn.vn CHI NHÁNH NXB KIM ĐỒNG TẠI MIỀN TRUNG 102 Ông Ích Khiêm, TP. Đà Nẵng ĐT: 0511 3812 333 - 0511 3812 335 - FAX: 0511 3812 334 Email: cnkimdongmt@nxbkimdong.com.vn CHI NHÁNH NXB KIM ĐỒNG TẠI TP. HỒ CHÍ MINH 276 Nguyễn Đình Chiểu, Q.3, TP. Hồ Chí Minh ĐT: 08 3930 3832 - FAX: 08 3930 5867 Email: cnkimdong@nxbkimdong.com.vn Chịu trách nhiệm xuất bản - Giám đốc: PHẠM QUANG VINH Chịu trách nhiệm bản thảo - Phó Giám đốc: NGUYỄN HUY THẮNG Biên tập: NGUYỄN KIM NGỌC Trình bày bìa: TÔ HỒNG THỦY Sửa bản: NGUYỄN MINH THỦY In 2.000 bản - Khổ 18,5 cm x 20,5 cm Tại Công ty TNHH một thành viên In và Văn hóa Phẩm Đăng ký kế hoạch xuất bản số: 03-2014/CXB/313-208/KĐ cấp ngày 3/12/2013 Quyết định xuất bản số: 131/QĐKĐ kí ngày 1/4/2014 In xong và nộp lưu chiểu tháng 4/2014"
+    },
+    {
+      "filename": "ChoDoCU.jpg",
+      "ground_truth": "CHỢ ĐỒ CŨ Song ngữ Anh - Việt Tác giả: Baek Hee Na & Kim Hyang Soo Người dịch: Lạc Tiên NHÀ XUẤT BẢN KIM ĐỒNG"
+    },
+    {
+      "filename": "CuuVat.jpg",
+      "ground_truth": "VƯƠNG QUỐC MINH Truyện tranh cổ tích Việt Nam 20 Cửu Vật Vật Trả Ơn NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM"
+    },
+    {
+      "filename": "chuvitxam.jpg",
+      "ground_truth": "CHÚ VỊT XÁM Chịu trách nhiệm xuất bản: TS. QUACH THU NGUYỆT Biên tập: THANH HƯƠNG Bìa: NGUYỄN HOÀNG Trình bày: NGUYỄN HOÀNG Sửa bản in: THANH HƯƠNG NHÀ XUẤT BẢN TRẺ 161B, Lý Chính Thắng - Quận 3 - TP. Hồ Chí Minh ĐT: 9316289 - 9316211 - 8465596 - 9350973 Fax: 08.8437450 E-mail: nxbtre@ hcm.vnn.vn Website: http://www.nxbtre.com.vn CHI NHÁNH NHÀ XUẤT BẢN TRẺ TẠI HÀ NỘI Số 20 ngõ 91 Nguyễn Chí Thanh - Quận Đống Đa - Hà Nội ĐT: (04) 7734544 Fax: (04) 7734544 E-mail: vanphongnxbtre@ hn.vnn.vn In 2.000 cuốn, khổ 18,5x18,5cm, tại Xi nghiệp In Nguyễn Minh Hoàng. Địa chỉ: 100 Lê Đại Hành, P.7, Q.11, TP HCM. ĐT: 8555812. E-mail: xn-mngminhhoang@hcm.vnn.vn. Số đăng ký kế hoạch xuất bản 316/154-CXB do Cục Xuất bản cấp ngày 26 - 3 - 2003 và giấy trích ngang KHXB số 1665/2003. In xong và nộp lưu chiểu tháng 11 năm 2003."
+    },
+    {
+      "filename": "CaoT.jpg",
+      "ground_truth": "Những câu hỏi Vì sao thế này? Vì sao thế kia? thường xuất hiện vô tận. Vậy sao bé không tự mình khám phá thế giới của bé là Bách khoa thư VÌ SAO? này nhỉ? Hãng trăm câu hỏi đáp thú vị kèm tranh minh họa sống động trong 52 cuốn sách này sẽ cho bé những hiểu biết phong phú về thế giới muôn màu quanh mình đấy! NHÀ XUẤT BẢN KIM ĐỒNG 55 Quang Trung, Q. Hai Bà Trưng, Hà Nội ĐT: (04) 3 943 4730 - 3 942 8632 - Fax: (04) 3 822 9085 Website: www.nxbkimdong.com.vn - Email: kimdong@hn.vnn.vn CHI NHÁNH NXB KIM ĐỒNG TẠI MIỀN TRUNG 102 Ông Ích Khiêm, TP. Đà Nẵng ĐT: (0511) 3812 333 - (0511) 3812 335 - Fax: (0511) 3812 334 Email: cnkimdongmt@nxbkimdong.com.vn CHI NHÁNH NXB KIM ĐỒNG TẠI TP. HỒ CHÍ MINH 276 Nguyễn Đình Chiểu, Q.3, TP. Hồ Chí Minh ĐT: 08 3 930 3832 - Fax: 08 3 930 5867 Email: cnkimdong@nxbkimdong.com.vn Chịu trách nhiệm xuất bản - Giám đốc: PHẠM QUANG VINH Chịu trách nhiệm bản thảo - Phó Giám đốc: NGUYỄN HUY THẮNG Biên tập: NGUYỄN THỊ KIM NGỌC Trình bày bìa: TÔ HỒNG THỦY Sửa bản: NGUYỄN MINH THỦY In 2.000 bản - Khổ 14 cm x 17 cm - Tại Xi nghiệp In và Bao bì - VPC Đăng kí kế hoạch xuất bản số: 02-2014/CXB/250-208/KĐ cấp ngày 03/12/2013 Quyết định xuất bản số: 116/QĐKĐ kí ngày 11/8/2014 In xong và nộp lưu chiểu tháng 9/2014 Bản quyền Tác phẩm thuộc về Nhà xuất bản Kim Đồng, 2014."
+    },
+    {
+      "filename": "CanhDieuMaThuatN.jpg",
+      "ground_truth": "Chịu trách nhiệm xuất bản Chủ tịch HĐQT kiêm Tổng Giám đốc NGÔ TRẦN ÁI Phó Tổng Giám Đốc kiêm Tổng biên tập NGUYỄN QUÝ THAO Tổ chức bản thảo và chịu trách nhiệm nội dung : Phó Tổng biên tập BÙI TẤT TƯỞM Giám đốc Công ty Cổ phần Đầu tư và Phát triển Giáo dục Phương Nam : XÃ THIẾU HOÀNG Biên tập nội dung : TRỊNH VIÊN Thiết kế sách : CÔNG TY TRUYỆN TRANH ARTSIGN Sửa bản in : THANH HOÀNG Chế bản : CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ PHÁT TRIỂN GIÁO DỤC PHƯƠNG NAM TRUYỆN TRANH CỔ TÍCH VIỆT NAM Tập 20: Cửu Vật Vật Trả Ơn Mã số: 81587P9-DNT In 5.000 bản, khổ 16 x 24 cm (QĐ 784), tại XN Chế Bản Tạo Mẫu & In Sài Gòn 3, 372 Lê Hồng Phong, Q.3, TP. HCM. Số ĐKKH Xuất Bản 05-2009/CXB/85-2170/GĐ In xong nộp lưu chiểu tháng 08 năm 2009"
+    },
+    {
+      "filename": "CuuVatN.jpg",
+      "ground_truth": "Chịu trách nhiệm xuất bản Chủ tịch HĐQT kiêm Tổng Giám đốc NGÔ TRẦN ÁI Phó Tổng Giám Đốc kiêm Tổng biên tập NGUYỄN QUÝ THAO Tổ chức bản thảo và chịu trách nhiệm nội dung : Phó Tổng biên tập BÙI TẤT TƯỞM Giám đốc Công ty Cổ phần Đầu tư và Phát triển Giáo dục Phương Nam : XÃ THIẾU HOÀNG Biên tập nội dung : TRỊNH VIÊN Thiết kế sách : CÔNG TY TRUYỆN TRANH ARTSIGN Sửa bản in : THANH HOÀNG Chế bản : CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ PHÁT TRIỂN GIÁO DỤC PHƯƠNG NAM TRUYỆN TRANH CỔ TÍCH VIỆT NAM Tập 20: Cửu Vật Vật Trả Ơn Mã số: 81587P9-DNT In 5.000 bản, khổ 16 x 24 cm (QĐ 784), tại XN Chế Bản Tạo Mẫu & In Sài Gòn 3, 372 Lê Hồng Phong, Q.3, TP. HCM. Số ĐKKH Xuất Bản 05-2009/CXB/85-2170/GĐ In xong nộp lưu chiểu tháng 08 năm 2009"
+    },
+    {
+      "filename": "chuvitxamN.jpg",
+      "ground_truth": "CHÚ VỊT XÁM Chịu trách nhiệm xuất bản: TS. QUACH THU NGUYỆT Biên tập: THANH HƯƠNG Bìa: NGUYỄN HOÀNG Trình bày: NGUYỄN HOÀNG Sửa bản in: THANH HƯƠNG NHÀ XUẤT BẢN TRẺ 161B, Lý Chính Thắng - Quận 3 - TP. Hồ Chí Minh ĐT: 9316289 - 9316211 - 8465596 - 9350973 Fax: 08.8437450 E-mail: nxbtre@ hcm.vnn.vn Website: http://www.nxbtre.com.vn CHI NHÁNH NHÀ XUẤT BẢN TRẺ TẠI HÀ NỘI Số 20 ngõ 91 Nguyễn Chí Thanh - Quận Đống Đa - Hà Nội ĐT: (04) 7734544 Fax: (04) 7734544 E-mail: vanphongnxbtre@ hn.vnn.vn In 2.000 cuốn, khổ 18,5x18,5cm, tại Xi nghiệp In Nguyễn Minh Hoàng. Địa chỉ: 100 Lê Đại Hành, P.7, Q.11, TP HCM. ĐT: 8555812. E-mail: xn-mngminhhoang@hcm.vnn.vn. Số đăng ký kế hoạch xuất bản 316/154-CXB do Cục Xuất bản cấp ngày 26 - 3 - 2003 và giấy trích ngang KHXB số 1665/2003. In xong và nộp lưu chiểu tháng 11 năm 2003."
+    },
+    {
+      "filename": "DacNhanTam.jpg",
+      "ground_truth": "DALE CARNEGIE ® Bản dịch duy nhất tại Việt Nam có bản quyền từ Gia đình Dale Carnegie ĐẮC NHÂN TÂM #1 INTERNATIONAL BEST SELLER How to Win Friends & Influence People Cuốn sách hay nhất mọi thời đại đưa bạn đến thành công NEW EDITION NHÀ XUẤT BẢN TỔNG HỢP THÀNH PHỐ HỒ CHÍ MINH NGUYỄN VĂN PHƯỚC dịch"
+    },
+    {
+      "filename": "mat-biec_bia-mem_in-lan-thu-44-400-x-500.jpg",
+      "ground_truth": "Nguyễn Nhật Ánh MẮT BIẾC Truyện dài in lần thứ 44 NHÀ XUẤT BẢN TRẺ"
+    },
+    {
+      "filename": "FriendAndLove.jpg",
+      "ground_truth": "L'AMOUR ET L'AMITIE Copyright 2009 by Editions Nathan, Paris - France www.brenifier.com Xuất bản theo Hợp đồng chuyển nhượng bản quyền giữa Editions Nathan và Nhà xuất bản Kim Đồng, 2013 Bản quyền bản tiếng Việt thuộc về Nhà xuất bản Kim Đồng, 2014 Cet ouvrage a beneficie du soutien des Programmes d'aide a la publication de l'Institut français/ministere français des affaires etrangeres et europeennes. Cuốn sách được xuất bản trong khuôn khổ Chương trình hỗ trợ xuất bản của Trung tâm Văn hoá Pháp / Bộ Ngoại giao và châu Âu Pháp. TÌNH YÊU VÀ TÌNH BẠN NHÀ XUẤT BẢN KIM ĐỒNG 55 Quang Trung, Q. Hai Bà Trưng, Hà Nội ĐT: 04 3943 4730 - 04 3942 8632 - FAX: 04 3822 9085 Website: http://www.nxbkimdong.com.vn - Email: kimdong@hn.vnn.vn CHI NHÁNH NXB KIM ĐỒNG TẠI MIỀN TRUNG 102 Ông Ích Khiêm, TP. Đà Nẵng ĐT: 0511 3812 333 - 0511 3812 335 - FAX: 0511 3812 334 Email: cnkimdongmt@nxbkimdong.com.vn CHI NHÁNH NXB KIM ĐỒNG TẠI TP. HỒ CHÍ MINH 276 Nguyễn Đình Chiểu, Q.3, TP. Hồ Chí Minh ĐT: 08 3930 3832 - FAX: 08 3930 5867 Email: cnkimdong@nxbkimdong.com.vn Chịu trách nhiệm xuất bản - Giám đốc: PHẠM QUANG VĨNH Chịu trách nhiệm bản thảo - Phó Giám đốc: NGUYỄN HUY THẮNG Biên tập: HOÀNG THANH THUỶ Trình bày bìa: TÔ HỒNG THUỶ Sửa bản: NGUYỄN THỊ NHUNG In 2.000 bản - Khổ 20,5 cm x 20,5 cm - Tại Công ty TNHH một thành viên In và Văn Hoá Phẩm Đăng kí KHXB số: 1316-2014/CXB/4-108/KĐ cấp ngày 3/7/2014 Quyết định xuất bản số: 275/QĐKĐ kí ngày 5/8/2014 In xong và nộp lưu chiểu tháng 8/2014"
+    },
+    {
+      "filename": "EFIT.jpg",
+      "ground_truth": "English for Information Technology 2 Vocational English Course Book TANITH NUSHASDR PARA ILCE SATILMAZ David Hill Series editor David Bonamy"
+    },
+    {
+      "filename": "laptrinhweb.jpg",
+      "ground_truth": "ĐẠI HỌC QUỐC GIA TP. HỒ CHÍ MINH TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN TRUNG TÂM TIN HỌC GIÁO TRÌNH PHẠM THỊ NHUNG Lập trình Web với HTML và Javascript NHÀ XUẤT BẢN ĐẠI HỌC QUỐC GIA TP.HỒ CHÍ MINH"
+    },
+    {
+      "filename": "LN2_Sau.jpg",
+      "ground_truth": "Sao cậu không tới gặn người khác và cũng không để người khác tới gặn cậu nhỉ? Con cảy xó họ tớị găn người khác tớ gạ mình. Kể lửt thi bi mẹ bỏ roi. Ban Yoon Hwan lưa chom sớng cách bỉệt vởi thẻ giới và tẻ hẹt cảm súc của chính bạn nhân minh. Cẫu đần thẳm cúa sựng sớm lần dẻn khuyya và đẻn trương chi đẻ ngỉt không quạn tảm tới viêc họ thaỉh hay kếi bạn vởi bát ky ai. Sơng cuộc giáp gỡ tính cờ giữa cậu và Ji Na Ru. cớ bản cung bịp bị bát nạt vạ cớ lập đạ giải tạm hơn cớ dơ. lạ gặn nhau. hơ cách bước vạo thẻ giời của hạ người tạc khởi trưởng và mớng rưng cùa tuới thaỉh xanh. cườn mỉnh rạ còn lương cho rêng minh"
+    },
+    {
+      "filename": "LN1_Truoc.jpg",
+      "ground_truth": "Nếu một ngày cậu bất chợt rời xa Ha Woon Lim Thuê Anh dịch AZVI©IETNAM Shine ③ NHÀ XUẤT BẢN CẨN THƠ"
+    },
+    {
+      "filename": "FriendAndLoveN.jpg",
+      "ground_truth": "Tình yêu và tình bạn Oscar Brenifier Jacques Després"
+    },
+    {
+      "filename": "NguVAn6.jpg",
+      "ground_truth": "NGỮ VĂN 6 TẬP HAI Chịu trách nhiệm xuất bản: Chủ tịch Hội đồng thành viên kiêm Tổng Giám đốc NGUYỄN TIẾN THÀNH Chịu trách nhiệm nội dung: Tổng biên tập PHẠM VĨNH THÁI Biên tập lần đầu: TRẦN MAI THANH HẰNG - THÂN THUỲ TRANG Biên tập tái bản: NGUYỄN THỊ NHIỆM Biên tập mĩ thuật: NGUYỄN BÍCH LA Thiết kế sách: PHAN THỊ THANH HOA Trình bày bìa: NGUYỄN BÍCH LA Minh hoạ: BÙI VIỆT DUY Sửa bản in: TẠ THỊ HƯỜNG - TRỊNH ĐÌNH DỤNG Chế bản: CÔNG TY CỔ PHẦN MĨ THUẬT VÀ TRUYỀN THÔNG Bản quyền © (2021) thuộc Nhà xuất bản Giáo dục Việt Nam. Xuất bản phẩm đã đăng kí quyền tác giả. Tất cả các phần của nội dung cuốn sách này đều không được sao chép, lưu trữ, chuyển thể dưới bất kì hình thức nào khi chưa có sự cho phép bằng văn bản của Nhà xuất bản Giáo dục Việt Nam. NGỮ VĂN 6 - TẬP HAI Mã số: G1HH6V002h24 In 10.000 bản (QĐ: 15GK), khổ 19 x 26,5 cm Đơn vị in: Công ty cổ phần In và Thương mại Khánh Hòa Địa chỉ: Số 8 Lê Thánh Tôn, P. Phước Tiến, Tp. Nha Trang, Tỉnh Khánh Hòa Số ĐKXB: 04-2024/CXBIPH/264-2317/GD Số QĐXB: 177 SGK/QĐ-GD-HCM ngày 11 tháng 07 năm 2024 In xong và nộp lưu chiểu tháng 8 năm 2024 Mã số ISBN: Tập một: 978-604-0-39649-5 Tập hai: 978-604-0-39650-1"
+    },
+    {
+      "filename": "GocNhanGian.jpg",
+      "ground_truth": "Ở một góc nhân gian Fumio Koko Mata Yuine"
+    },
+    {
+      "filename": "NguVAn6Bia.jpg",
+      "ground_truth": "BỘ SỞ THI TUYỀN VĂN QUÓC GIĂ NGỬ VĂN 6 TẬP HAI BÙI MẠNH HÙNG (Tổng Chủ biên) NGUYỄN THỊ NGÂN HOA (Chủ biên) PHAN HUY DŨNG - PHẠM ĐĂNG XUÂN HƯƠNG ĐẶNG LƯU - NGUYỄN THANH TÙNG NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM"
+    },
+    {
+      "filename": "LN1_Trong.jpg",
+      "ground_truth": "AZVI©IETNAM COPYRIGHT 2020 Néu một ngày cậu bất chợt rời xa Cuốn sách xuất bản theo hợp đồng chuyển nhượng bản quyền giữa Công ty TNHH Văn hóa và Truyền Siqonesa Co., Ltd. thông qua Eric Yang Agency Inc. (thương hiệu ShineBooks), Việt Nam và Công ty TNHH UNEXPECTED SEASON By Ha-Woon Lim All rights reserved. Copyright ©2019 Ha-Woon Lim Vietnamese language copyright ©2020 Việt Nam AZ Communication and Culture Company Limited. Vietnamese language edition arranged with Siqonesa Co., Ltd. through Eric Yang Agency Inc. Nghiêm cấm in sao và Phát hành dưới mọi hình thức không được phép bằng văn bản của ShineBooks. Hiệp năy, tiếu thi trương đã xuat thêu tiền những văn phẫ tăm nghĩa vởi chất trương êm kêm nhiêu hồi Mong quý khách hẵng hày cần thẫn khi chon mua sách, Đế mua dung cuốn sách Nêt mới ngại gật chư bát chir tôi và Nhà xuất bản Dân Tôi phải hành Việt Việt Nam và Truyền dông AZ Việt Nam và Nhà xuất bản Dân Tôi phải hành đôc già ở các trang nổi dung được in sạch đẹp rõ nét, đấy đủ sớ trang Shine Brand Manager: VŨ QUỲNH MAI Mơi phần hồi và họp tắc vui lòng liên hệ: Email: shinebooks.vn@gmail.com Fanpage: https://www.facebook.com/shinebooks2016 Tel: (84-24) 3717 2838"
+    },
+    {
+      "filename": "HanhTrinhVe-PhuongDong.jpg",
+      "ground_truth": "JOURNEY TO THE EAST BAIRD T. SPALDING NGUYỄN PHONG Hành trình về Phương Đông NHÀ XUẤT BẢN THẾ GIỚI Cuốn sách hay nhất mọi thời đại khám phá những giá trị vĩnh hằng All Time Best-selling Book"
+    },
+    {
+      "filename": "mat-biec_bia-mem_in-lan-thu-44-400-x-500.jpg",
+      "ground_truth": "Nguyễn Nhật Ánh MẮT BIẾC Truyện dài in lần thứ 44 NHÀ XUẤT BẢN TRẺ"
+    },
+    {
+      "filename": "FriendAndLove.jpg",
+      "ground_truth": "L'AMOUR ET L'AMITIE Copyright 2009 by Editions Nathan, Paris - France www.brenifier.com Xuất bản theo Hợp đồng chuyển nhượng bản quyền giữa Editions Nathan và Nhà xuất bản Kim Đồng, 2013 Bản quyền bản tiếng Việt thuộc về Nhà xuất bản Kim Đồng, 2014 Cet ouvrage a beneficie du soutien des Programmes d'aide a la publication de l'Institut français/ministere français des affaires etrangeres et europeennes. Cuốn sách được xuất bản trong khuôn khổ Chương trình hỗ trợ xuất bản của Trung tâm Văn hoá Pháp / Bộ Ngoại giao và châu Âu Pháp. TÌNH YÊU VÀ TÌNH BẠN NHÀ XUẤT BẢN KIM ĐỒNG 55 Quang Trung, Q. Hai Bà Trưng, Hà Nội ĐT: 04 3943 4730 - 04 3942 8632 - FAX: 04 3822 9085 Website: http://www.nxbkimdong.com.vn - Email: kimdong@hn.vnn.vn CHI NHÁNH NXB KIM ĐỒNG TẠI MIỀN TRUNG 102 Ông Ích Khiêm, TP. Đà Nẵng ĐT: 0511 3812 333 - 0511 3812 335 - FAX: 0511 3812 334 Email: cnkimdongmt@nxbkimdong.com.vn CHI NHÁNH NXB KIM ĐỒNG TẠI TP. HỒ CHÍ MINH 276 Nguyễn Đình Chiểu, Q.3, TP. Hồ Chí Minh ĐT: 08 3930 3832 - FAX: 08 3930 5867 Email: cnkimdong@nxbkimdong.com.vn Chịu trách nhiệm xuất bản - Giám đốc: PHẠM QUANG VĨNH Chịu trách nhiệm bản thảo - Phó Giám đốc: NGUYỄN HUY THẮNG Biên tập: HOÀNG THANH THUỶ Trình bày bìa: TÔ HỒNG THUỶ Sửa bản: NGUYỄN THỊ NHUNG In 2.000 bản - Khổ 20,5 cm x 20,5 cm - Tại Công ty TNHH một thành viên In và Văn Hoá Phẩm Đăng kí KHXB số: 1316-2014/CXB/4-108/KĐ cấp ngày 3/7/2014 Quyết định xuất bản số: 275/QĐKĐ kí ngày 5/8/2014 In xong và nộp lưu chiểu tháng 8/2014"
+    },
+    {
+      "filename": "EFIT.jpg",
+      "ground_truth": "English for Information Technology 2 Vocational English Course Book TANITH NUSHASDR PARA ILCE SATILMAZ David Hill Series editor David Bonamy"
+    },
+    {
+      "filename": "laptrinhweb.jpg",
+      "ground_truth": "ĐẠI HỌC QUỐC GIA TP. HỒ CHÍ MINH TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN TRUNG TÂM TIN HỌC GIÁO TRÌNH PHẠM THỊ NHUNG Lập trình Web với HTML và Javascript NHÀ XUẤT BẢN ĐẠI HỌC QUỐC GIA TP.HỒ CHÍ MINH"
+    },
+    {
+      "filename": "LN2_Sau.jpg",
+      "ground_truth": "Sao cậu không tới gặn người khác và cũng không để người khác tới gặn cậu nhỉ? Con cảy xó họ tớị găn người khác tớ gạ mình. Kể lửt thi bi mẹ bỏ roi. Ban Yoon Hwan lưa chom sớng cách bỉệt vởi thẻ giới và tẻ hẹt cảm súc của chính bạn nhân minh. Cẫu đần thẳm cúa sựng sớm lần dẻn khuyya và đẻn trương chi đẻ ngỉt không quạn tảm tới viêc họ thaỉh hay kếi bạn vởi bát ky ai. Sơng cuộc giáp gỡ tính cờ giữa cậu và Ji Na Ru. cớ bản cung bịp bị bát nạt vạ cớ lập đạ giải tạm hơn cớ dơ. lạ gặn nhau. hơ cách bước vạo thẻ giời của hạ người tạc khởi trưởng và mớng rưng cùa tuới thaỉh xanh. cườn mỉnh rạ còn lương cho rêng minh"
+    },
+    {
+      "filename": "LN1_Truoc.jpg",
+      "ground_truth": "Nếu một ngày cậu bất chợt rời xa Ha Woon Lim Thuê Anh dịch AZVI©IETNAM Shine ③ NHÀ XUẤT BẢN CẨN THƠ"
+    },
+    {
+      "filename": "FriendAndLoveN.jpg",
+      "ground_truth": "Tình yêu và tình bạn Oscar Brenifier Jacques Després"
+    },
+    {
+      "filename": "NguVAn6.jpg",
+      "ground_truth": "NGỮ VĂN 6 TẬP HAI Chịu trách nhiệm xuất bản: Chủ tịch Hội đồng thành viên kiêm Tổng Giám đốc NGUYỄN TIẾN THÀNH Chịu trách nhiệm nội dung: Tổng biên tập PHẠM VĨNH THÁI Biên tập lần đầu: TRẦN MAI THANH HẰNG - THÂN THUỲ TRANG Biên tập tái bản: NGUYỄN THỊ NHIỆM Biên tập mĩ thuật: NGUYỄN BÍCH LA Thiết kế sách: PHAN THỊ THANH HOA Trình bày bìa: NGUYỄN BÍCH LA Minh hoạ: BÙI VIỆT DUY Sửa bản in: TẠ THỊ HƯỜNG - TRỊNH ĐÌNH DỤNG Chế bản: CÔNG TY CỔ PHẦN MĨ THUẬT VÀ TRUYỀN THÔNG Bản quyền © (2021) thuộc Nhà xuất bản Giáo dục Việt Nam. Xuất bản phẩm đã đăng kí quyền tác giả. Tất cả các phần của nội dung cuốn sách này đều không được sao chép, lưu trữ, chuyển thể dưới bất kì hình thức nào khi chưa có sự cho phép bằng văn bản của Nhà xuất bản Giáo dục Việt Nam. NGỮ VĂN 6 - TẬP HAI Mã số: G1HH6V002h24 In 10.000 bản (QĐ: 15GK), khổ 19 x 26,5 cm Đơn vị in: Công ty cổ phần In và Thương mại Khánh Hòa Địa chỉ: Số 8 Lê Thánh Tôn, P. Phước Tiến, Tp. Nha Trang, Tỉnh Khánh Hòa Số ĐKXB: 04-2024/CXBIPH/264-2317/GD Số QĐXB: 177 SGK/QĐ-GD-HCM ngày 11 tháng 07 năm 2024 In xong và nộp lưu chiểu tháng 8 năm 2024 Mã số ISBN: Tập một: 978-604-0-39649-5 Tập hai: 978-604-0-39650-1"
+    },
+    {
+      "filename": "GocNhanGian.jpg",
+      "ground_truth": "Ở một góc nhân gian Fumio Koko Mata Yuine"
+    },
+    {
+      "filename": "NguVAn6Bia.jpg",
+      "ground_truth": "BỘ SỞ THI TUYỀN VĂN QUÓC GIĂ NGỬ VĂN 6 TẬP HAI BÙI MẠNH HÙNG (Tổng Chủ biên) NGUYỄN THỊ NGÂN HOA (Chủ biên) PHAN HUY DŨNG - PHẠM ĐĂNG XUÂN HƯƠNG ĐẶNG LƯU - NGUYỄN THANH TÙNG NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM"
+    },
+    {
+      "filename": "LN1_Trong.jpg",
+      "ground_truth": "AZVI©IETNAM COPYRIGHT 2020 Néu một ngày cậu bất chợt rời xa Cuốn sách xuất bản theo hợp đồng chuyển nhượng bản quyền giữa Công ty TNHH Văn hóa và Truyền Siqonesa Co., Ltd. thông qua Eric Yang Agency Inc. (thương hiệu ShineBooks), Việt Nam và Công ty TNHH UNEXPECTED SEASON By Ha-Woon Lim All rights reserved. Copyright ©2019 Ha-Woon Lim Vietnamese language copyright ©2020 Việt Nam AZ Communication and Culture Company Limited. Vietnamese language edition arranged with Siqonesa Co., Ltd. through Eric Yang Agency Inc. Nghiêm cấm in sao và Phát hành dưới mọi hình thức không được phép bằng văn bản của ShineBooks. Hiệp năy, tiếu thi trương đã xuat thêu tiền những văn phẫ tăm nghĩa vởi chất trương êm kêm nhiêu hồi Mong quý khách hẵng hày cần thẫn khi chon mua sách, Đế mua dung cuốn sách Nêt mới ngại gật chư bát chir tôi và Nhà xuất bản Dân Tôi phải hành Việt Việt Nam và Truyền dông AZ Việt Nam và Nhà xuất bản Dân Tôi phải hành đôc già ở các trang nổi dung được in sạch đẹp rõ nét, đấy đủ sớ trang Shine Brand Manager: VŨ QUỲNH MAI Mơi phần hồi và họp tắc vui lòng liên hệ: Email: shinebooks.vn@gmail.com Fanpage: https://www.facebook.com/shinebooks2016 Tel: (84-24) 3717 2838"
+    },
+    {
+      "filename": "HanhTrinhVe-PhuongDong.jpg",
+      "ground_truth": "JOURNEY TO THE EAST BAIRD T. SPALDING NGUYỄN PHONG Hành trình về Phương Đông NHÀ XUẤT BẢN THẾ GIỚI Cuốn sách hay nhất mọi thời đại khám phá những giá trị vĩnh hằng All Time Best-selling Book"
+    },
+    {
+      "filename": "ToiDiHoc.jpg",
+      "ground_truth": "Nhà giáo ưu tú NGUYỄN NGỌC KỶ hạt giống tâm hồn Tôi đi học NHÀ XUẤT BẢN TRẺ \"Có những con người như hạt giống trong ta...\""
+    },
+    {
+      "filename": "Toto.jpg",
+      "ground_truth": "Tủ Sách Bé Ngoạn chuyện Tô Tô và các bạn Truyện: HOÀI THƯƠNG - Tranh: QUANG TOÀN Đồ họa vi tính: NGUYỄN PHƯỚC - LAN NGỌC NHÀ XUẤT BẢN HỒNG ĐỨC CHUYỆN THÁM BẤT NGỜ Truyện: HOÀI THƯƠNG - Tranh: QUANG TOÀN Đồ họa vi tính: NGUYỄN PHƯỚC - LAN NGỌC NHÀ XUẤT BẢN HỒNG ĐỨC"
+    },
+    {
+      "filename": "TrietHocLenin.jpg",
+      "ground_truth": "BỘ GIÁO DỤC VÀ ĐÀO TẠO GIÁO TRÌNH TRIẾT HỌC MÁC - LÊNIN (Dành cho bậc đại học hệ không chuyên lý luận chính trị) NHÀ XUẤT BẢN CHÍNH TRỊ QUỐC GIA SỰ THẬT"
+    },
+    {
+      "filename": "TotoN.jpg",
+      "ground_truth": "chuyện Tô Tô và các bạn TỦ SÁCH BÉ NGOẠN Truyện: HOÀI THƯƠNG - Tranh: QUANG TOÀN CHUYỆN THÁM BẤT NGỜ Truyện: HOÀI THƯƠNG - Tranh: QUANG TOÀN NHÀ XUẤT BẢN HỒNG ĐỨC"
+    },
+    {
+      "filename": "TiengViet4B.jpg",
+      "ground_truth": "TRỊNH CẨM LY (Chủ biên) VŨ THỊ AN - NGUYỄN THỊ LÝ KHA - PHẠM THỊ KIM OANH Chân trời sáng tạo Vở bài tập TIẾNG VIỆT 4 TẬP MỘT NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM"
+    },
+    {
+      "filename": "ToiThayHoaVangTrenCoXanh.jpg",
+      "ground_truth": "nguyễn nhật ánh tôi thấy hoa vàng trên cỏ xanh truyện dài NHÀ XUẤT BẢN TRẺ"
+    },
+    {
+      "filename": "TotVaXauBiaNgoai.jpg",
+      "ground_truth": "Tốt và xấu Oscar Brenifier Jacques Després"
+    },
+    {
+      "filename": "PhatTrenKyNang.jpg",
+      "ground_truth": "DẠY CON TỪ THUỞ CÒN THƠ PHÁT TRIỂN KĨ NĂNG GIAO TIẾP Tác giả: Shi Ji Mao Người dịch: Phạm Phương Anh NHÀ XUẤT BẢN KIM ĐỒNG"
+    },
+    {
+      "filename": "truyen-kieu-than-phan-con-nguoi-va-nhung-tin-hieu.jpg",
+      "ground_truth": "LÊ ĐÌNH CÚC Truyện Kiều THÂN PHẬN CON NGƯỜI VÀ NHỮNG TÍN HIỆU CỦA VĂN HỌC HIỆN ĐẠI NHÀ XUẤT BẢN ĐẠI HỌC QUỐC GIA HÀ NỘI"
+    },
+    {
+      "filename": "sach_sinh_hoc.jpg",
+      "ground_truth": "TỔNG XUÂN TẨM (Chủ biên) TRẦN HOÀNG DƯƠNG - NGUYỄN THỊ HÀ - NGUYỄN THẾ HÙNG NGUYỄN THỊ HẰNG NGA - TRẦN THANH SƠN Chân trời sáng tạo SINH HỌC 12 NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM"
+    },
+    {
+      "filename": "sach_tieng_anh.jpg",
+      "ground_truth": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TIẾNG ANH 12 NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM"
+    },
+    {
+      "filename": "TotVaXauBiaTrong.jpg",
+      "ground_truth": "C'EST BIEN, C'EST MAL Copyright 2010 by Editions Nathan, Paris - France www.brenifier.com Xuất bản theo Hợp đồng chuyển nhượng bản quyền giữa Editions Nathan và Nhà xuất bản Kim Đồng, 2013 Bản quyền bản tiếng Việt thuộc về Nhà xuất bản Kim Đồng, 2014 Cet ouvrage a beneficie du soutien des Programmes d'aide a la publication de l'Institut français/ministere français des affaires etrangeres et europeennes. Cuốn sách được xuất bản trong khuôn khổ Chương trình hỗ trợ xuất bản của Trung tâm Văn hoá Pháp / Bộ Ngoại giao và châu Âu Pháp. TỐT VÀ XẤU NHÀ XUẤT BẢN KIM ĐỒNG 55 Quang Trung, Q. Hai Bà Trưng, Hà Nội ĐT: 04 3943 4730 - 04 3942 8632 - FAX: 04 3822 9085 Website: http://www.nxbkimdong.com.vn - Email: kimdong@hn.vnn.vn CHI NHÁNH NXB KIM ĐỒNG TẠI MIỀN TRUNG 102 Ông Ích Khiêm, TP. Đà Nẵng ĐT: 0511 3812 333 - 0511 3812 335 - FAX: 0511 3812 334 Email: cnkimdongmt@nxbkimdong.com.vn CHI NHÁNH NXB KIM ĐỒNG TẠI TP. HỒ CHÍ MINH 276 Nguyễn Đình Chiểu, Q.3, TP. Hồ Chí Minh ĐT: 08 3930 3832 - FAX: 08 3930 5867 Email: cnkimdong@nxbkimdong.com.vn Chịu trách nhiệm xuất bản - Giám đốc: PHẠM QUANG VĨNH Chịu trách nhiệm bản thảo - Phó Giám đốc: NGUYỄN HUY THẮNG Biên tập: HOÀNG THANH THỦY Trình bày bìa: TÔ HỒNG THỦY Sửa bản: NGUYỄN THỊ NHUNG In 2.000 bản - Khổ 20,5 cm x 20,5 cm - Tại Công ty TNHH một thành viên In và Văn Hoá Phẩm Đăng kí KHXB số: 1316-2014/CXB/3-108/KĐ cấp ngày 3/7/2014 Quyết định xuất bản số: 275/QĐKĐ kí ngày 5/8/2014 In xong và nộp lưu chiểu tháng 8/2014"
+    },
+    {
+      "filename": "ToMauConhCHua.jpg",
+      "ground_truth": "NHÀ XUẤT BẢN THANH NIÊN Tầng 11, lô D29 Phạm Văn Bạch, Q. Cầu Giấy, TP. Hà Nội ĐT: (024) 22147825 Website: nxbthanhnien.vn - Email: info@nxbthanhnien.vn Chi nhánh: 145 PASTEUR, P6, Quận 3, TP. Hồ Chí Minh ĐT: (028) 39106962 - 39106963 ĐƠN VỊ LIÊN KẾT XUẤT BẢN VÀ PHÁT HÀNH CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ VĂN HÓA ĐỊNH TỊ VPGD tại Hà Nội: NV 22, Khu đô thị Handico, Ngõ 13 Lạc Long Quân, P. Mộc Đồng, Q. Hoàng Mai, TP. Hà Nội VPGD tại TP. Hồ Chí Minh: Số 78, Đường số 1, P. 4, Q. Gò Vấp, TP. Hồ Chí Minh Điện thoại: (+84)24 7309 3388 Email: contact@dinhtibooks.vn Website: http://www.dinhtibooks.vn ĐỊNH TỊ BOOKS TỎ MÀU Cổng chúa (Tái bản lần thứ tư) Original title: (美少女填色顏版) Author: 周寧, 董莉 Copyright © 2012 Phoenix Juvenile and Children's Publishing Ltd. Vietnamese edition copyright © 2017 Dinh Ti Trading and Culture Service Co., Ltd Translation and Publication rights arranged by Phoenix Juvenile and Children's Publishing Ltd. ALL RIGHTS RESERVED Chịu trách nhiệm xuất bản: Giám đốc - Tổng Biên tập: LÊ THANH HÀ Biên tập : NGUYỄN TIẾN THẮNG Bìa : VIETNAMBAKU Chế bản : TRẦN HÀ Sửa bản in : THÁI HẰNG In 2000 cuốn khổ 19cm x 26,5cm - Tại Công ty CP In SAVINA Địa chỉ: 22B Hai Bà Trưng, P. Tràng Tiền, Q. Hoàn Kiếm, TP. Hà Nội Số ĐKXB: 1282-2022/CXBIPH/32-37/TN năm 2022 QĐXB của NXB Thanh niên số: 1042/QĐ-NXBTN ngày 04-05-2022 Số ISBN: 978-604-371-249-0 In xong và nộp lưu chiểu năm 2022."
+    },
+    {
+      "filename": "Toto2.jpg",
+      "ground_truth": "chuyện Tô Tô và các bạn TỦ SÁCH BÉ NGOẠN Truyện: HOÀI THƯƠNG - Tranh: QUANG TOÀN CHUYỆN THÁM BẤT NGỜ NHÀ XUẤT BẢN HỒNG ĐỨC"
+    },
+    {
+      "filename": "IMG_7529.jpg",
+      "ground_truth": "TRẦN VÂN ANH (Chủ biên) NGUYỄN THỊ HOÀI PHƯƠNG Thực hành Kiểm tra, đánh giá năng lực LỊCH SỬ 7 NHÀ XUẤT BẢN ĐẠI HỌC QUỐC GIA HÀ NỘI"
+    },
+    {
+      "filename": "2023_12_29_13_09_IMG_5468.JPG",
+      "ground_truth": "3-8 TUỔI Các Câu Chuyện Nhân Văn Phát Triển EQ Cho Trẻ NIỀM VUI TỰ LẬP Tác giả: Liêm Đông Tinh Dịch giả: Bích Hợp Bồi dưỡng trí tuệ cảm xúc Bước qua kỳ khủng hoảng NHÀ XUẤT BẢN PHỤ NỮ VIỆT NAM"
+    },
+    {
+      "filename": "2023_12_29_16_14_IMG_6115.JPG",
+      "ground_truth": "14 NGUYÊN TẮC BẤT BIẾN khiến SỰ NGHIỆP THĂNG TIẾN CUỘC ĐỜI THĂNG HOA Đức Quần Hà Phương dịch NHÀ XUẤT BẢN HỒNG ĐỨC BIZBOOKS Audio books"
+    },
+    {
+      "filename": "20231229_124521.jpg",
+      "ground_truth": "SHARON SALZBERG Thanh Hằng dịch Tác giả có sách bán chạy nhất theo New York Times Sức mạnh của thiền nơi công sở An nhiên giữa những bộn bề NHÀ XUẤT BẢN THANH NIÊN"
+    },
+    {
+      "filename": "VH_070.jpg",
+      "ground_truth": "thạch lam NXB VĂN HỌC ĐINH TỊ BOOKS Tập truyện ngắn GIÓ LẠNH ĐẦU MÙA VĂN HỌC VIỆT NAM vh còm"
+    },
+    {
+      "filename": "2023_12_30_12_30_IMG_5717.JPG",
+      "ground_truth": "BENJAMIN LOH Đức Thái (dịch) Inspirit NGHỆ THUẬT TRUYỀN CẢM HỨNG 12 CHIẾN LƯỢC VỀ THUYẾT TRÌNh HIỆU QUẢ NHÀ XUẤT BẢN THANH NIÊN"
+    },
+    {
+      "filename": "IMG_7758.jpg",
+      "ground_truth": "PHẠM HỒNG LONG (CHỦ BIÊN) - Nguyễn Thu Thủy - Bùi Tuấn Hưng THE TRUE IELTS Guide Học IELTS từ con số 0 chưa bao giờ tiện lợi đến thế MCBooks Chuyên sách ngoại ngữ NHÀ XUẤT BẢN HỒNG ĐỨC Tặng tài khoản học tập trị giá 500.000 VNĐ 150% HIỆU QUẢ Cùng MCBooks App"
+    },
+    {
+      "filename": "IMG_7811.jpg",
+      "ground_truth": "HACKERS Làm quen với TOEFL ITP Listening LÊ KIỀU TRANG dịch MP3 Cung cấp file nghe MP3, đáp án kèm giải thích chi tiết H HACKERS Giới thiệu các dạng câu hỏi đặc trưng của bài thi Gợi ý lộ trình học tập và cung cấp đề thi thực tế gamma NHÀ XUẤT BẢN THẾ GIỚI"
+    },
+    {
+      "filename": "IMG_7468.jpg",
+      "ground_truth": "TS LÊ THẾ CƯƠNG GÓP PHẦN BẢO VỆ NỀN TẢNG TƯ TƯỞNG CỦA ĐẢNG, ĐẤU TRANH PHẢN BÁC QUAN ĐIỂM, LUẬN ĐIỆU SAI TRÁI, THÙ ĐỊCH CHỐNG PHÁ ĐẠI HỘI XIII NHÀ XUẤT BẢN CÔNG AN NHÂN DÂN"
+    },
+    {
+      "filename": "IMG_7475.jpg",
+      "ground_truth": "Giáo dục tỉnh thức Daniel Rechtschaffen Kiều Anh Tú dịch NHÀ XUẤT BẢN LAO ĐỘNG"
+    },
+    {
+      "filename": "VH_090.jpg",
+      "ground_truth": "DANH TÁC THẠCH LAM VIỆT NAM Hà Nội 36 phố phường NHÀ XUẤT BẢN Trí Việt VĂN HỌC vh"
+    },
+    {
+      "filename": "IMG_7881.jpg",
+      "ground_truth": "EMILY NGHE NÓI Tự học TIẾNG ANH CĂN BẢN Những mẫu câu, tình huống giao tiếp căn bản nhất. Luyện nghe nói cùng người bản ngữ trên MCPlatform. Cuống sách giao tiếp căn bản dành cho người mới học. MCBooks 150% HIỆU QUẢ Cùng MCBooks App NHÀ XUẤT BẢN HỒNG ĐỨC"
+    },
+    {
+      "filename": "IMG_7612.jpg",
+      "ground_truth": "NGUYỄN TRỌNG KHANG (Chủ biên) TẠ TUẤN HƯNG Cánh Diều VỞ BÀI TẬP Công nghệ 8 CÔNG TY CỔ PHẦN ĐẦU TƯ NHÀ XUẤT BẢN ĐẠI HỌC QUỐC GIA HÀ NỘI XUẤT BẢN - THIẾT BỊ GIÁO DỤC VIỆT NAM"
+    },
+    {
+      "filename": "VH_005.jpg",
+      "ground_truth": "nguyễn nhật ánh đi qua hoa cúc truyện dài in lần thứ 43 NHÀ XUẤT BẢN TRẺ SÁCH BÁN CHẠY"
+    },
+    {
+      "filename": "VH_080.jpg",
+      "ground_truth": "LÊ THÁI DŨNG (Biên soạn) VƯƠNG TRIỀU LÝ và Lý Chiêu Hoàng H NHÀ XUẤT BẢN HỒNG ĐỨC"
+    },
+    {
+      "filename": "IMG_7850.jpg",
+      "ground_truth": "NGUYỄN THANH LOAN PRACTICE ENGLISH EVERY DAY ĐỐI ĐÁP TIẾNG ANH KHÔNG CẦN NGHĨ Nhỏ gọn, dễ mang bên mình Thực hành mọi lúc mọi nơi Dễ học, dễ luyện, dễ nhớ Dành cho học sinh, sinh viên và người đi làm ZENBOOKS NHÀ XUẤT BẢN ĐÀ NẴNG"
+    },
+    {
+      "filename": "IMG_7853.jpg",
+      "ground_truth": "Korean Vietnamese Chinese Japanese.other/3 2000 từ vựng TIẾNG HÀN THIẾT YẾU cho người mới bắt đầu Ahn Seol-hee/Min Jin-young/Kim Min-sung Cần thiết cho kỳ thi TOPIK 2000 Essential KOREANWORDS for Beginners Th.S Lê Huy Khoa dịch Trường Hàn ngữ Việt-Hàn Kanata Th.S Trần Công Danh hiệu đính CD NHÀ XUẤT BẢN DARAKWON ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH MP3 First News"
+    },
+    {
+      "filename": "VH_085.jpg",
+      "ground_truth": "Lâm Thanh Huyền Mai Phương dich NHÀ XUẤT BẢN PN SKY BOOKS PHỤ NỮ VIỆT NAM Books Ngày nắng yêu nắng ngày mưa yêu mưa Glow"
+    },
+    {
+      "filename": "IMG_7469.jpg",
+      "ground_truth": "ThS VŨ THẾ CÔNG (Chủ biên) VẬN ĐỘNG QUẦN CHÚNG VÀ XÂY DỰNG PHONG TRÀO TOÀN DÂN BẢO VỆ AN NINH TỔ QUỐC TẠI ĐỊA BÀN DÂN TỘC, TÔN GIÁO NHÀ XUẤT BẢN CÔNG AN NHÂN DÂN"
+    },
+    {
+      "filename": "IMG_7794.jpg",
+      "ground_truth": "Đại Lợi (Chủ biên) - Vân Anh NGUWX PHÁP & GIẢI THÍCH CHI TIẾT NGỮ PHÁP TIẾNG ANH TẬP 2 (Tái bản lần 1) CƠ BẢN & NÂNG CAO 80 20 1 Kiến thức Cô đọng đầu đủ, theo chương trình THPT 2 Lý thuyết Hệ thống rõ ràng, mô phạm 3 Bài tập Đa dạng, đáp án được giải chi tiết rõ ràng, dễ hiểu 4 Mục tiêu củng cố ngữ pháp, đạt điểm 8+ trong các bài kiểm tra và thi NHÀ XUẤT BẢN ĐẠI HỌC QUỐC GIA HÀ NỘI"
+    },
+    {
+      "filename": "2023_12_29_15_31_IMG_6265.JPG",
+      "ground_truth": "MORAG HOOD Người dịch: Hachan TRUY TÌM MÌ SPAGHETTI KIM ĐỒNG NHÀ XUẤT BẢN KIM ĐỒNG"
+    },
+    {
+      "filename": "IMG_7520.jpg",
+      "ground_truth": "Phan Văn Đức Toán Cơ bản và nâng cao TRUNG HỌC CƠ SỞ 7 TẬP 2 NHÀ XUẤT BẢN ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH"
+    },
+    {
+      "filename": "IMG_7436.jpg",
+      "ground_truth": "DI SẢN HỒ CHÍ MINH HỌC VÀ LÀM THEO BÁC NGUYỄN MINH HẢI NHÀ XUẤT BẢN TRẺ"
+    },
+    {
+      "filename": "VH_106.jpg",
+      "ground_truth": "BAT SABER BƯỚC VÀO BÓNG TỐI NHÀ XUẤT BẢN HÀ NỘI NHỮNG VỤ ÁN CÓ THẬT CÙNG BAT SABER Dành cho lứa tuổi 18+"
+    },
+    {
+      "filename": "2023_12_30_12_27_IMG_5706.JPG",
+      "ground_truth": "Trương Tú Anh Phùng Chấn Dực DALE Người dịch: Tuệ Văn CARNEGIE BẬC THẦY CỦA NGHỆ THUẬT GIAO TIẾP NHÀ XUẤT BẢN THANH NIÊN Nghệ thuật giao tiếp học từ Dale Carnegie sẽ tiếp sức chúng ta tiến tới THÀNH CÔNG"
+    },
+    {
+      "filename": "2023_12_29_16_03_IMG_6068.JPG",
+      "ground_truth": "BÁN HÀNG 5.0 Nắm bắt tâm lý, phân tích hành vi và xây dựng chiến lược marketing hiệu quả giúp tối ưu trải nghiệm khách hàng BLAKE MORGAN Nguyễn Hữu Tài và Trướng Bến Hà dịch 1980 BOOKS NHÀ XUẤT BẢN CÔNG THƯƠNG"
+    },
+    {
+      "filename": "20231229_125051.jpg",
+      "ground_truth": "ROBERT GREENE NGUYỄN THỊ KIM ANH dịch BESTSELLER Tác giả 48 NGUYÊN TẮC CHỦ CHỐT CỦA QUYỀN LỰC NGHỆ THUẬT QUYẾN RŨ THE ART OF SEDUCTION in lần thứ 26 NHÀ XUẤT BẢN TRẺ"
+    },
+    {
+      "filename": "20231228_154453.jpg",
+      "ground_truth": "NGUYỄN NHẬT ÁNH Đỗ Hoàng Tường minh họa ĐẢO MỘNG MƠ Truyện Cuốn sâchs bán chạy nhất Hội sách TP.Hồ Chí Minh 2010 (Tái bản lần thứ 34) ĐÔNG Á NHÀ XUẤT BẢN TRẺ"
+    },
+    {
+      "filename": "IMG_7671.jpg",
+      "ground_truth": "NGUYỄN TRỌNG DŨNG, NGUYỄN QUỐC HUY BỒI DƯỠNG HỌC SINH GIỎI VÀ ÔN THI VÀO LỚP 10 THPT CHUYÊN MÔN VẬT LÍ NHÀ XUẤT BẢN ĐẠI HỌC QUỐC GIA HÀ NỘI"
+    },
+    {
+      "filename": "2023_12_29_16_13_IMG_6109.JPG",
+      "ground_truth": "Thái Đồng Dịch: Thanh Lam Tư duy của NGƯỜI DẪN ĐẦU 7 YẾU TỐ ĐỂ TRỞ THÀNH NGƯỜI DẪN ĐẦU ĐÁM ĐÔNG NHÀ XUẤT BẢN THẾ GIỚI ibooks"
+    },
+    {
+      "filename": "2023_12_29_16_00_IMG_6057.JPG",
+      "ground_truth": "NOAM LEWIS Phí Mai dịch THAO TÚNG TÂM LÝ TRONG CÔNG VIỆC Đọc vị hành vi, thấu hiểu tâm trí để chữa lành mọi tổn thương tâm lý 1980 CÔNG THƯƠNG NHÀ XUẤT BẢN BOOKS"
+    },
+    {
+      "filename": "2023_12_29_15_30_IMG_6262.JPG",
+      "ground_truth": "NHỮNG CÂU CHUYỆN VỀ Lòng nhân ái BÍCH NGA Tuyển chọn & biên dịch In lần thứ 21 NHÀ XUẤT BẢN TRẺ"
+    },
+    {
+      "filename": "IMG_7424.jpg",
+      "ground_truth": "TỦ SÁCH HỒ CHÍ MINH THEO DẤU CHÂN BÁC HỒ TS. PHẠM VĂN HOÀNG NHÀ XUẤT BẢN TỔNG HỢP THÀNH PHỐ HỒ CHÍ MINH"
+    },
+    {
+      "filename": "2023_12_29_13_07_IMG_5463.JPG",
+      "ground_truth": "EM MUỐN BIẾT VÌ SAO Belinda Weber Thanh Loan dịch Cây phát tán hạt như thế nào? Sâu bướm ăn nhiều và những câu hỏi khác về sự sống Bà mẹ nào sinh ra quả trứng lớn nhất? NHÀ XUẤT BẢN DÂN TRÍ ĐÔNG Á"
+    },
+    {
+      "filename": "2023_12_29_15_51_IMG_6025.JPG",
+      "ground_truth": "CHRIS BAILEY Trịnh Ngọc Minh dịch HYPERFOCUS TĂNG HIỆU QUẢ TRONG MỘT THẾ GIỚI ĐA ĐOAN SIÊU TẬP TRUNG SAIGONBOOKS NHÀ XUẤT BẢN THẾ GIỚI Tái bản lần thứ ba"
+    },
+    {
+      "filename": "IMG_7654.jpg",
+      "ground_truth": "MAI PHÚ THÀNH - HOÀNG TRỌNG TUÂN (đồng Chủ biên) BÙI VŨ THANH NHẬT - PHẠM THỊ BẠCH TUYẾT - TRẦN QUỐC VIỆT Chân trời sáng tạo CHUYÊN ĐỀ HỌC TẬP ĐỊA LÍ 11 GD NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM"
+    },
+    {
+      "filename": "20231229_125104.jpg",
+      "ground_truth": "DR HELEN MCGRATH & HAZEL EDWARDS Thanh Thủy dịch TỦ SÁCH SỐNG KHÁC SKYBOOKS GIÚP BẠN ỨNG PHÓ MỐI QUAN HỆ ĐỘC HAI những kẻ khó ưa NHÀ XUẤT BẢN DÂN TRÍ"
+    },
+    {
+      "filename": "IMG_7781.jpg",
+      "ground_truth": "Lê Văn Hùng Mind map English phrasal verbs, collocations and idioms Cụm động từ, cụm từ và thành ngữ tiếng Anh qua sơ đồ tư duy Hơn 300 Prasal verbs thông dụng nhất Hơn 250 Collocations phổ biến nhất hơn 250 Idioms thường gặp nhất Hơn 1000 bài tập vận dụng sau mỗi sơ đồ tư duy và bài tập trên app MCBooks COME ACROSS COME OUT COME UP COME FROM COME COME DOWN 150% HIỆU QUẢ Cùng MCBooks App Chuyên sách ngoại ngữ MCBooks NHÀ XUẤT BẢN HỒNG ĐỨC"
+    },
+    {
+      "filename": "2023_12_30_12_27_IMG_5705.JPG",
+      "ground_truth": "MELISSA PERRI HUY NGUYỄN dịch Chiến lược XÂY DỰNG THƯƠNG HIỆU VÀ QUẢN LÝ SẢN PHẨM Xây dựng kế hoạch chiến lược Thiết lập và tối ưu ngân sách Thiết kế và định vị sản phẩm mới Marketing và bán hàng hiệu quả Gia tăng nhận diện thương hiệu Xây dựng giá trị cho khách hàng 1980 BOOKS NHÀ XUẤT BẢN LAO ĐỘNG"
+    },
+    {
+      "filename": "2023_12_29_12_59_IMG_5435.JPG",
+      "ground_truth": "TỦ SÁCH VÀNG CHO CON Những câu chuyện hay nhất trong Tuyển tập Nghìn Lẻ Một Đêm Tác giả: Antoine Galland Stefania Leonardi Hartley kể Bích Lộc dịch TANVIET vh NHÀ XUẤT BẢN VĂN HỌC"
+    },
+    {
+      "filename": "IMG_7569.jpg",
+      "ground_truth": "TRẦN LỤC Củng cố và Ôn luyện HÓA HỌC BỘ SÁCH GIÚP HỌC SINH TỰ HỌC HÓA TỐT NHẤT TỦ SÁCH TỰ HỌC ĐỘT PHÁ GIÚP HỌC SINH TỔNG ÔN TẬP KIẾN THỨC HIỆU QUẢ BÀI TẬP PHÂN LOẠI ĐA DẠNG VÀ LỜI GIẢI CHI TIẾT MegaBook NHÀ XUẤT BẢN ĐẠI HỌC QUỐC GIA HÀ NỘI"
+    },
+    {
+      "filename": "20231229_124721.jpg",
+      "ground_truth": "TINH HOA XỬ THẾ PHƯƠNG ĐÔNG H THÁI CĂN ĐÀM NHÀ XUẤT BẢN HỒNG ĐỨC HỒNG ỨNG MINH Người dịch: Thành Khang - Kim Thoa"
+    },
+    {
+      "filename": "VH_076.jpg",
+      "ground_truth": "SHERLOCK HOLMES NHỮNG CUỘC PHIÊU LƯU CỦA SHERLOCK HOLMES ARTHUR CONAN DOYLE NGUYÊN HƯƠNG dịch WingsBooks KIM ĐỒNG NHÀ XUẤT BẢN KIM ĐỒNG"
+    },
+    {
+      "filename": "IMG_7785.jpg",
+      "ground_truth": "LEE JUN BOK, SEONG RYONG Người dịch: Trịnh Thị Hà Đặng Thùy Trang, Trương Mai Hương CHINH PHỤC ĐỀ THI HSK 5 KÈM GIẢI THÍCH NGỮ PHÁP CHI TIẾT ĐÁP ÁN VÀ LỜI GIẢI CHI TIẾT TỰ HỌC ĐỀ THI BÁM SÁT VÀ PHÂN LOẠI CẤP ĐỘ CÂU HỎI RÕ RÀNG MegaBook NHÀ XUẤT BẢN ĐẠI HỌC QUỐC GIA HÀ NỘI"
+    },
+    {
+      "filename": "IMG_7750.jpg",
+      "ground_truth": "PHẠM NGŨ NHƯ NGỌC (ĐẠI HỌC SƯ PHẠM TP.HCM) New ĐỘNG TỪ BẤT QUY TẮC & KIẾN THỨC ANH VĂN CĂN BẢN Phiên bản mới nhất English NHÀ XUẤT BẢN DÂN TRÍ"
+    },
+    {
+      "filename": "20231229_131041.jpg",
+      "ground_truth": "MICHAEL HYATT NYX TRAN dịch KHƠI DẬY SỨC MẠNH TÍCH CỰC ĐÁNH THỨC NĂNG LỰC BẢN THÂN 1980 BOOKS LD NHÀ XUẤT BẢN LAO ĐỘNG"
+    },
+    {
+      "filename": "IMG_7819.jpg",
+      "ground_truth": "HACKERS Làm quen với TOEFL ITP Reading VƯƠNG NHẬT VY dịch Abc Hệ thống các kiến thức ngữ pháp liên quan đến kỹ năng đọc hiểu H HACKERS Giới thiệu các dạng câu hỏi đặc trưng và gợi ý chiến lược làm bài Cung cấp lộ trình học tập và đề thi thực tế gamma NHÀ XUẤT BẢN THẾ GIỚI"
+    },
+    {
+      "filename": "2023_12_29_13_19_IMG_5498.JPG",
+      "ground_truth": "Tủ sách Tương tác SÁCH CHUYỂN ĐỘNG First Stories CÔNG CHÚA NGỦ TRONG RỪNG Sleeping Beauty Minh họa: Dan Taylor Minh Trang dịch ĐINH TỊ BOOKS NHÀ XUẤT BẢN THANH NIÊN"
+    },
+    {
+      "filename": "VH_043.jpg",
+      "ground_truth": "TÔ HOÀI LÁ THƯ TÌNH ĐẦU TIÊN KIM ĐỒNG NHÀ XUẤT BẢN KIM ĐỒNG V.TUẤN 2023"
+    },
+    {
+      "filename": "IMG_7460.jpg",
+      "ground_truth": "TS. VŨ THÀNH LUÂN (chủ biên) NGÔ TUẤN KIỆT NGUYỄN THÙY NGÂN LÊ TIẾN THÀNH KHAI BÁO TẠM TRÚ CHO NGƯỜI NƯỚC NGOÀI QUA TRANG THÔNG TIN ĐIỆN TỬ TẠI VIỆT NAM TRONG BỐI CẢNH CUỘC CÁCH MẠNG CÔNG NGHIỆP LẦN THỨ TƯ (Sách chuyên khảo) NHÀ XUẤT BẢN CÔNG AN NHÂN DÂN"
+    },
+    {
+      "filename": "IMG_7415.jpg",
+      "ground_truth": "LÊ MINH QUỐC VĂN HÓA VIỆT NHÌN TỪ TIẾNG VIỆT DÍCH DẮC DẶT DÌU DƯ DÍ DỎM NHÀ XUẤT BẢN TỔNG HỢP THÀNH PHỐ HỒ CHÍ MINH"
+    },
+    {
+      "filename": "20231228_162232.jpg",
+      "ground_truth": "Mái trường thân yêu Lê Khắc Hoan TỦ SÁCH VÀNG Tác phẩm chọn lọc dành cho thiếu nhi KIM ĐỒNG NHÀ XUẤT BẢN KIM ĐỒNG"
+    },
+    {
+      "filename": "20231228_171449.jpg",
+      "ground_truth": "trái tim người lớn là con hàu mang vỏ nini Mai Dung dịch Đôi khi, mới giây trước vẫn còn là trẻ con, ngay giây sau đã thành người lớn rồi nhã nam NHÀ XUẤT BẢN HÀ NỘI"
+    },
+    {
+      "filename": "IMG_7813.jpg",
+      "ground_truth": "Collins English for Exams IELTS PREPARATION AND PRACTICE Fiona Aish, Jo Tomlinson & Anneli Williams Audio available online POWERED BY COBUILD NTV Công ty TNHH Nhân Trí Việt NHÀ XUẤT BẢN TỔNG HỢP THÀNH PHỐ HỒ CHÍ MINH"
+    },
+    {
+      "filename": "20231229_124914.jpg",
+      "ground_truth": "OREN KLAFF Phong Trần dịch TÂM LÝ HỌC THUYẾT PHỤC Nghệ thuật đọc vị tâm lý để thu hút và giữ chân khách hàng tiềm năng 1980 BOOKS NHÀ XUẤT BẢN CÔNG THƯƠNG"
+    },
+    {
+      "filename": "IMG_7512.jpg",
+      "ground_truth": "THÁI QUANG VINH - TRẦN ĐỨC NIỀM - LÊ THỊ NGUYÊN Bồi dưỡng LÀM VĂN HAY 8 Theo chương trình GDPT mới Dùng chung cho các bộ SGK hiện hành NHÀ XUẤT BẢN HẢI PHÒNG"
+    },
+    {
+      "filename": "IMG_7829.jpg",
+      "ground_truth": "PONS Tự học TIẾNG ĐỨC qua hình Bildworterbuch Deutsch als Fremdsprache 8.000 từ và cụm từ thông dụng kèm phiên âm der Sattel Sattel ['zatl] die Speiche-n ['spaiga] der Lenker ['lenke] das Fahrrad-rade ['fa:era:t] Zum Eintragen der Muttersprache NTV Công ty TNHH Nhân Trí Việt NHÀ XUẤT BẢN TỔNG HỢP THÀNH PHỐ HỒ CHÍ MINH"
+    },
+    {
+      "filename": "2023_12_29_15_59_IMG_6054.JPG",
+      "ground_truth": "NAPOLEON HILL Người dịch: PHẠM QUỐC BẢO NAPOLEON HILL'S KEYS TO SUCCESS BÍ QUYẾT THÀNH CÔNG CỦA Napoleon Hill 17 NGUYÊN TẮC THÀNH CÔNG VƯỢT BẬC TRONG NHÀ XUẤT BẢN HỒNG ĐỨC CÔNG VIỆC VÀ CUỘC SỐNG VAN LANG CULTURE JSC"
+    },
+    {
+      "filename": "VH_065.jpg",
+      "ground_truth": "VIOLET RAIN Chúc dịch hương hoa 2 tình yêu I FEEL YOU LINGER IN THE AIR herrii NHÀ XUẤT BẢN books THANH NIÊN"
+    },
+    {
+      "filename": "2023_12_29_15_29_IMG_6259.JPG",
+      "ground_truth": "NHỮNG CÂU CHUYỆN VỀ Khát vọng và ước mơ NHÓM ĐẬU XANH Tuyển chọn & biên dịch In lần thứ 23 NHÀ XUẤT BẢN TRẺ"
+    },
+    {
+      "filename": "IMG_7867.jpg",
+      "ground_truth": "NGỌC HÂN TIẾNG TRUNG TRUNG dành cho người ĐI DU LỊCH Cung cấp lượng từ phong phú. Các tình huống giao tiếp thông dụng, gần gũi với đời sống thực tiễn Bố cục dễ hiểu. dễ nhớ, dễ tra cứu. (Tái bản) MINHTHANG BOOKS NHÀ XUẤT BẢN DÂN TRÍ KHỞI NGUỒN TRI THỨC"
+    },
+    {
+      "filename": "IMG_7734.jpg",
+      "ground_truth": "THE LANGMASTER TỦ SÁCH HỌC TỐ TIẾNG ANH TRẦN MẠNH TƯỜNG (Chủ biên) - ĐỨC THÀNH Trau dồi Ngữ pháp & Từ vựng Tiếng Anh Improve English Grammar & Vocabulary Tái bản lần 1 NEW EDITION 39 chủ điểm từ vựng - ngữ pháp tiếng Anh thông dụng Bài tập thiết thực, sinh động, kèm đáp án Nâng cao vốn từ vựng và cấu trúc ngữ pháp NHÀ XUẤT BẢN ĐẠI HỌC QUỐC GIA HÀ NỘI"
+    },
+    {
+      "filename": "2023_12_29_15_54_IMG_6039.JPG",
+      "ground_truth": "JEWISH WISDOM OF MAKING MONEY TRÍ TUỆ LÀM GIÀU CỦA NGƯỜI DO THÁI TẠI SAO HỌ LẠI GIÀU CÓ VÀ GIỎI ĐẾN VẬY Tây Mông Bích Phương dịch SÁCH BẢN QUYỀN (Tái bản) KINH NGHIỆM LÀM GIÀU CÁCH ĐỐI NHÂN XỬ THẾ KINH NGHIỆM GIÁO DỤC CON CÁI NGUYÊN TẮC SỐNG PHƯƠNG PHÁP SUY NGHĨ BUSINESSBOOKS MỘT LẦN KHIẾN ĐẦU ÓC SUY NGẪM VỀ CỦA CẢI, GIÁO DỤC VÀ LÀM NGƯỜI PHẢI BÙNG NỔ Picasso, Marx, Einstein, Freud, Morgan, Rockefeller, Bill Gates Buffett, Greenspan, Soros... HỌ ĐỀU LÀ NGƯỜI DO THÁI, HỌ ĐỀU SUY NGẪM VẤN ĐỀ THEO CÁCH NÀY NHÀ XUẤT BẢN DÂN TRÍ"
+    },
+    {
+      "filename": "20231229_125323.jpg",
+      "ground_truth": "Ryan Holiday Vũ Quế Hương dịch tâm tĩnh lặng Tác giả những cuốn sách #1 New York Times Bestseller THE OBSTACLE IS THE WAY Và EGO IS THE ENEMY bước chậm lại để thành công #1 New York Times Bestseller & Wall Street Journal Bestseller NHÀ XUẤT BẢN DÂN TRÍ"
+    },
+    {
+      "filename": "IMG_7400.jpg",
+      "ground_truth": "BỘ GIÁO DỤC VÀ ĐÀO TẠO GIÁO TRÌNH TRIẾT HỌC MÁC - LÊNIN (Dành cho bậc đại học hệ không chuyên lý luận chính trị) ST NHÀ XUẤT BẢN CHÍNH TRỊ QUỐC GIA SỰ THẬT"
+    },
+    {
+      "filename": "2023_12_29_15_31_IMG_6264.JPG",
+      "ground_truth": "MORAG HOOD AALFRED AALBERT và Người dịch: Hachan KIM ĐỒNG NHÀ XUẤT BẢN KIM ĐỒNG"
+    },
+    {
+      "filename": "2023_12_29_13_21_IMG_5505.JPG",
+      "ground_truth": "Best fable stories for kids TRUYỆN TRANH NGỤ NGÔN DÀNH CHO THIẾU NHI Song ngữ Anh - Việt 5+ The city mouse and the country mouse Chuột Nhà và Chuột Đồng Lời Việt: Mai Hương, Ngọc Tâm Tiếng Anh: Minh Quân, Jenny D Minh họa: T-Books (In lần thứ 2) NHÀ XUẤT BẢN PHỤ NỮ VIỆT NAM ĐẠI MAI BOOKS"
+    },
+    {
+      "filename": "VH_022.jpg",
+      "ground_truth": "BS WYNN HUYNH TRAN NHÀ XUẤT BẢN MÀU nhạt nắng THẾ GIỚI THẾ GIỚI DR.WYNN TRAN 202"
+    },
+    {
+      "filename": "IMG_7663.jpg",
+      "ground_truth": "NGUYỄN HOÀNG LONG - NGUYỄN VÂN TÍN SỔ TAY KIẾN THỨC HÓA HỌC TRUNG HỌC CƠ SỞ NHÀ XUẤT BẢN ĐẠI HỌC QUỐC GIA HÀ NỘI"
+    },
+    {
+      "filename": "IMG_7484.jpg",
+      "ground_truth": "ĐỨC HUY KỸ THUẬT SỬA CHỮA Ô TÔ CƠ BẢN NHÀ XUẤT BẢN BÁCH KHOA HÀ NỘI"
+    },
+    {
+      "filename": "IMG_7573.jpg",
+      "ground_truth": "BỘ GIÁO DỤC VÀ ĐÀO TẠO Ngữ văn 12 TẬP HAI NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM"
+    },
+    {
+      "filename": "IMG_7404.jpg",
+      "ground_truth": "Sắc màu lễ hội dân gian 54 DÂN TỘC VIỆT NAM Nam Phong (Sưu tầm - tuyển chọn) NHÀ XUẤT BẢN DÂN TRÍ"
+    },
+    {
+      "filename": "IMG_7728.jpg",
+      "ground_truth": "VŨ THANH PHƯƠNG - BÙI Ý Hiệu đính: Bùi Phụng NGỮ PHÁP TIẾNG ANH ENGLISH GRAMMAR Nhà xuất bản Hồng Đức"
+    },
+    {
+      "filename": "VH_093.jpg",
+      "ground_truth": "Danh THẠCH LAM tác văn học VIỆT NAM (Tái bản) Gió lạnh đầu MINHTHANG BOOKS mùa vh NHÀ XUẤT BẢN VĂN HỌC KHỞI NGUỒN TRI THỨC"
+    },
+    {
+      "filename": "2023_12_30_12_32_IMG_5726.JPG",
+      "ground_truth": "SCOTT OLDFORD Lê Trúc Anh dịch HIỆU ỨNG HẠT NHÂN 6 TRỤ CỘT ĐỂ XÂY DỰNG DOANH NGHIỆP TRỰC TUYẾN NHÀ XUẤT BẢN HỒNG ĐỨC BIZBOOKS Audio books"
+    },
+    {
+      "filename": "20231229_123748.jpg",
+      "ground_truth": "PATRICK KING Thanh Huyền dịch GIẢI MÃ HÀNH VI ĐỌC VỊ CẢM XÚC NGHỆ THUẬT NHÌN THẤU TÂM LÝ ĐỐI PHƯƠNG NHƯ NHÀ TÂM LÝ HỌC 1980 BOOKS NHÀ XUẤT BẢN ĐẠI HỌC KINH TẾ QUỐC DÂN"
+    },
+    {
+      "filename": "IMG_7876.jpg",
+      "ground_truth": "MAI LAN HƯƠNG NGUYỄN THANH LOAN BEST SELLER NGỮ PHÁP TIẾNG ANH ANH Tái bản 2023 ZENBOOKS NHÀ XUẤT BẢN ĐÀ NẴNG"
+    },
+    {
+      "filename": "IMG_7584.jpg",
+      "ground_truth": "BỘ GIÁO DỤC VÀ ĐÀO TẠO TOÁN 9 TẬP HAI NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM"
+    },
+    {
+      "filename": "IMG_7635.jpg",
+      "ground_truth": "Cánh Diều ĐỖ THANH BÌNH (Chủ biên) - NGUYỄN MẠNH HƯỞNG - LÊ HỒNG SƠN Tập bản đồ, tranh ảnh & câu hỏi luyện tập LỊCH SỬ 10 NHÀ XUẤT BẢN ĐẠI HỌC QUỐC GIA HÀ NỘI"
+    },
+    {
+      "filename": "20231229_130854.jpg",
+      "ground_truth": "MORGAN HOUSEL Hoàng Thị Minh Phúc dịch TÂM LÝ HỌC VỀ TIỀN THE INTERNATIONAL BESTSELLER Những bí mật về tham vọng Sự thịnh vượng và hạnh phúc 1980 BOOKS NHÀ XUẤT BẢN DÂN TRÍ"
+    },
+    {
+      "filename": "IMG_7745.jpg",
+      "ground_truth": "MỸ HƯƠNG 360 ĐỘNG TỪ BẤT QUY TẮC và 12 THÌ CƠ BẢN TRONG TIẾNG ANH MCBooks Chuyên sách ngoại ngữ NHÀ XUẤT BẢN HỒNG ĐỨC"
+    },
+    {
+      "filename": "2023_12_29_16_07_IMG_6087.JPG",
+      "ground_truth": "Moogwi Kim Hoàng Quỳnh dịch IQ trong công việc Phương pháp làm việc tối ưu SÁCH BẢN QUYỀN Cuốn sách mang lại cảm giác và những năng lượng tích cực. Gợi ý lý tưởng cho một \"phong cách làm việc mới\" và \"cách sống mới\". Tài liệu bổ ích trong đào tạo nhân viên, tìm việc làm và phát triển bản thân. MINHTHANGBOOKS NHÀ XUẤT BẢN DÂN TRÍ"
+    },
+    {
+      "filename": "2023_12_29_13_03_IMG_5447.JPG",
+      "ground_truth": "VỆ SĨ TỐT NHẤT LÀ CHÍNH MÌNH Tác giả: Thế Kỳ Tân Hoa Người dịch: Mai Anh 6-12 TUỔI AN TOÀN KHI VUI CHƠI 150++ Kỹ năng an toàn dành cho học sinh NHÀ XUẤT BẢN LAO ĐỘNG"
+    },
+    {
+      "filename": "2023_12_29_15_19_IMG_6228.JPG",
+      "ground_truth": "May ÔNG GIÀ NOEL và CUỘC PHIÊU LƯU CỦA ĐÔI GIÀY MỚI Vun đắp tâm hồn KIM ĐỒNG NHÀ XUẤT BẢN KIM ĐỒNG"
+    },
+    {
+      "filename": "IMG_7458.jpg",
+      "ground_truth": "LUẬT SƯ. TS. PHẠM HOÀI HUẤN QUẢN TRỊ CÔNG TY THỰC CHIẾN BẢN ÁN VÀ BÌNH LUẬN ST NHÀ XUẤT BẢN CHÍNH TRỊ QUỐC GIA SỰ THẬT"
+    },
+    {
+      "filename": "IMG_7864.jpg",
+      "ground_truth": "Kaixin Chủ Biên: Lê Văn Quang TỰ HỌC TIẾNG TRUNG dành cho người người Việt Nội dung bài học được thiết kế đẹp mắt, đầy đủ các phần từ vựng, ngữ pháp, bài nghe và tập viết cho người mới bắt đầu. Sách đã xuất bản tại Đài Loan và được cộng đồng người Việt đón nhận nồng nhiệt Cốn sách gồm 10 chủ đề quen thuộc, thông dụng nhất trong cuộc sống. MCBooks Chuyên sách ngoại ngữ CÔNG TY CỔ PHẦN SÁCH NHÀ XUẤT BẢN HỒNG ĐỨC"
+    },
+    {
+      "filename": "2023_12_30_12_28_IMG_5711.JPG",
+      "ground_truth": "TIẾN SĨ GREG REID & GARY M.KREBS QUẢN LÝ DÒNG TIỀN THÔNG MINH Kim Ngân dịch Phương pháp tạo dựng tự do tài chính của những triệu phú tự thân 1980 NHÀ XUẤT BẢN BOOKS CÔNG THƯƠNG"
+    },
+    {
+      "filename": "2023_12_29_13_20_IMG_5502.JPG",
+      "ground_truth": "MỸ THUẬN (Biên soạn) Cùng trẻ lớn lên với những câu chuyện truyền cảm hứng 6:00-6:30 6:45-7:30 7:40-8:30 8:30-9:30 9:30-10:30 10:30-11:30 11:30-12:00 NHẬT KÝ TRƯỞNG THÀNH TÍNH TỰ LẬP Chúng ta không thể gọi một người thiếu tự chủ là người tự do. Pythagoras Những người nghiên cứu đã quen với sự thất vọng và thất bại. Nhưng nếu như được phân tích kỹ càng, thất bại thường có lợi, nó giúp nắm bắt thành công. Fleming NHÀ XUẤT BẢN VĂN HỌC Lienviet"
+    },
+    {
+      "filename": "IMG_7763.jpg",
+      "ground_truth": "TRANG ANH 25 CHUYÊN ĐỀ NGỮ PHÁP TIẾNG ANH TRỌNG TÂM 1 Dành cho học sinh, sinh viên, người đi làm Dành cho giáo viên tham khảo Luyện thi THPT quốc giá, ôn thi vào lớp 10, luyện thi học sinh giỏi Luyện thi các chứng chỉ quốc tế NHÀ XUẤT BẢN ĐẠI HỌC QUỐC GIA HÀ NỘI"
+    },
+    {
+      "filename": "20231229_131814.jpg",
+      "ground_truth": "LÊ QUANG CÁCH ĐỂ TRỞ THÀNH NAM THẦN Nhanvna NHÀ XUẤT BẢN HỒNG ĐỨC"
+    },
+    {
+      "filename": "2023_12_29_13_01_IMG_5439.JPG",
+      "ground_truth": "ĐỌC NGẮN NHẤT HIỂU SÂU NHẤT Dành cho trẻ em từ 6-12 tuổi 10 VẠN CÂU HỎI VÌ SAO KHÁM PHÁ BÍ MẬT CƠ THỂ NGƯỜI Tác giả: Trung tâm xuất bản biên tập 10 vạn câu hỏi vì sao Người dịch: Hà Thu ĐÁNH THỨC NHÀ KHOA HỌC NHÍ BÊN TRONG BẠN NHÀ XUẤT BẢN LAO ĐỘNG"
+    },
+    {
+      "filename": "20231229_135109.jpg",
+      "ground_truth": "Trần Đăng Khoa Góc sân và khoảng trời vh NHÀ XUẤT BẢN VĂN HỌC"
+    },
+    {
+      "filename": "IMG_7406.jpg",
+      "ground_truth": "TS. TRẦN VĂN LƯỢNG CÔNG TÁC VẬN ĐỘNG ĐỒNG BÀO CÔNG GIÁO THAM GIA GIỮ GÌN AN NINH, TRẬT TỰ Ở KHU VỰC BIÊN GIỚI BIỂN NHÀ XUẤT BẢN CÔNG AN NHÂN DÂN"
+    },
+    {
+      "filename": "IMG_7639.jpg",
+      "ground_truth": "TRẦN NAM DŨNG - BÙI VĂN NGHỊ (đồng Tổng Chủ biên) VŨ QUỐC CHUNG - TRẦN ĐỨC HUYÊN (đồng Chủ biên) Chân trời sáng tạo TOÁN 6 TẬP HAI GD NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM"
+    },
+    {
+      "filename": "IMG_7748.jpg",
+      "ground_truth": "Thanh Nhân - Đông Hòa TỦ SÁCH KHỐI CHUYÊN ANH 700 ĐỘNG TỪ BẤT QUY TẮC VÀ NGỮ PHÁP CÁC THÌ TRONG TIẾNG ANH CẬP NHẬT MỚI, ĐẦU ĐỦ NHẤT BẢNG ĐỘNG TỪ BẤT QUY TẮC GỒM 700 TỪ HỆ THỐNG KIẾN THỨC MỘT CÁCH KHOA HỌC VÀ CHI THIẾT 12 THÌ TRONG TIẾNG ANH VỚI CÁCH DÙNG VÀ BÀI TẬP VẬN DỤNG HỆ THỐNG  BÀI TẬP THỰC HÀNH ĐA DẠNG BÀI TẬP ÔN TẬP TỔNG HỢP CÓ ĐÁP ÁN VÀ GIẢI THÍCH CHI TIẾT BÁM SÁT CẤU TRÚC ĐỀ THI LÝ THUYẾT VÀ BÀI TẬP THỰC HÀNH ĐƯỢC ĐỤC KẾT TỪ QUÁ TRÌNH GIẢNG DẠY ABBOOKS NHÀ XUẤT BẢN ĐẠI HỌC SƯ PHẠM TP HỒ CHÍ MINH"
+    },
+    {
+      "filename": "VH_007.jpg",
+      "ground_truth": "nguyễn nhật ánh BÁN CHẠY SƯƠNG KHÓI tạp văn QUÊ NHÀ In lần thứ 25 NHÀ XUẤT BẢN TRẺ TÁC GIẢ SÁCH"
+    },
+    {
+      "filename": "2023_12_29_15_31_IMG_6266.JPG",
+      "ground_truth": "MORAG HOOD STEVE và STEVE Người dịch: Hachan KIM ĐỒNG NHÀ XUẤT BẢN KIM ĐÒNG"
+    },
+    {
+      "filename": "20231228_164000.jpg",
+      "ground_truth": "THÍCH NHẤT HẠNH CÙNG QUÝ THẦY, QUÝ SƯ CÔ LÀNG MAI Tìm bình yên Trong gia đình NHÀ XUẤT BẢN THẾ GIỚI (Tái bản lần 15) THẾ GIỚI THAIHABOOKS Phụng sự để dẫn đầu"
+    },
+    {
+      "filename": "IMG_7452.jpg",
+      "ground_truth": "LUẬT BẢO HIỂM Y TẾ (HIỆN HÀNH) (SỬA ĐỔI, BỔ SUNG NĂM 2013, 2014, 2015, 2018, 2020) ST NHÀ XUẤT BẢN CHÍNH TRỊ QUỐC GIA SỰ THẬT"
+    },
+    {
+      "filename": "2023_12_29_16_07_IMG_6089.JPG",
+      "ground_truth": "KAZUMASA TOMITA Thu Phương dịch PDCA CÔNG CỤ LẬP KẾ HOẠCH HIỆU QUẢ Ứng dụng chu trình quản lý và cải tiến liên tục chất lượng công việc 1980 BOOKS NHÀ XUẤT BẢN CÔNG THƯƠNG"
+    },
+    {
+      "filename": "IMG_7619.jpg",
+      "ground_truth": "ĐỖ NGỌC THỐNG (Chủ biên) NGUYỄN PHƯỚC HOÀNG - TRẦN THỊ NGỌC (Tuyển chọn và biên soạn) Cánh Diều VĂN BẢN ĐỌC HIỂU Ngữ văn NHÀ XUẤT BẢN ĐẠI HỌC QUỐC GIA HÀ NỘI"
+    },
+    {
+      "filename": "IMG_7665.jpg",
+      "ground_truth": "THS. NGUYỄN PHÚ ĐỒNG - THS. LÊ THỊ THU HẰNG SỔ TAY KIẾN THỨC VẬT LÍ TRUNG HỌC CƠ SỞ NHÀ XUẤT BẢN ĐẠI HỌC QUỐC GIA HÀ NỘI"
+    },
+    {
+      "filename": "VH_100.jpg",
+      "ground_truth": "HỒ SƠ PHẠM An Lạc Group dịch CƯƠNG TUYẾT ẤN KIM ĐỒNG WingsBooks TÂM LÍ TỘI 5 NHÀ XUẤT BẢN KIM ĐỒNG"
+    },
+    {
+      "filename": "VH_101.jpg",
+      "ground_truth": "HỒ SƠ TÂM LÍ TỘI PHẠM 1 NHÀ XUẤT BẢN KIM ĐỒNG CƯƠNG TUYẾT ẨN Phiêu dịch KIM ĐỒNG WingsBooks"
+    },
+    {
+      "filename": "IMG_7581.jpg",
+      "ground_truth": "BỘ GIÁO DỤC VÀ ĐÀO TẠO Giáo dục QUỐC PHÒNG - AN NINH 12 NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM"
+    },
+    {
+      "filename": "IMG_7623.jpg",
+      "ground_truth": "Cánh Diều ĐỖ ĐỨC THÁI (Tổng Chủ biên kiêm Chủ biên) LÊ TUẤN ANH - ĐỖ TIẾN ĐẠT - NGUYỄN SƠN HÀ NGUYỄN THỊ PHƯƠNG LOAN - PHẠM SỸ NAM - PHẠM ĐỨC QUANG VỞ BÀI TẬP Toán 8 TẬP MỘT CÔNG TY CỔ PHẦN ĐẦU TƯ XUẤT BẢN - THIẾT BỊ GIÁO DỤC VIỆT NAM NHÀ XUẤT BẢN ĐẠI HỌC QUỐC GIA HÀ NỘI"
+    },
+    {
+      "filename": "VH_099.jpg",
+      "ground_truth": "Brian L.Weiss ÁM ẢNH TỪ KIẾP TRƯỚC Bí mật của sự sống và cái chết Trần Trung Hải dịch NHÀ XUẤT BẢN LAO ĐỘNG"
+    },
+    {
+      "filename": "VH_038.jpg",
+      "ground_truth": "TÔ HOÀI Truyện TÂY BẮC Tủ sách VĂN HỌC TRONG NHÀ TRƯỜNG KIM ĐỒNG NHÀ XUẤT BẢN KIM ĐỒNG"
+    },
+    {
+      "filename": "IMG_7648.jpg",
+      "ground_truth": "Chân trời sáng tạo ĐINH PHƯƠNG DUY - ĐÀO THỊ NGỌC MINH -HUỲNH VĂN SƠN (đồng Chủ biên) ĐÀO LÊ HOÀ AN - TRẦN TUẤN ANH - ĐÀO THỊ HÀ LƯU THỊ THU HÀ - NGÔ THÁI HÀ - NGUYỄN THỊ BÍCH HỒNG TIÊU THỊ MỸ HỒNG - ĐỖ CÔNG NAM - VŨ THỊ THANH NGA GIÁO DỤC CÔNG DÂN 6 NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM"
+    },
+    {
+      "filename": "IMG_7503.jpg",
+      "ground_truth": "Th.S Lê Văn Tiến (Chủ biên) - Hoàng Viết Thuận TKBooks Chuyên sách tham khảo Theo sách giáo khoa bộ kết nối tri thức với cuộc sống Làm chủ KIẾN THỨC TOÁN bằng sơ đồ tư duy lớp 7 TẬP 2 Sơ đồ tư duy gợi mở kiến thức trọng tâm Bài tập trắc nghiệm ôn luyện kiến thức Bài tập tự luận theo năng lực Đề kiểm tra giữa kỳ và cuối kỳ NHÀ XUẤT BẢN HỒNG ĐỨC"
+    },
+    {
+      "filename": "20231228_162045.jpg",
+      "ground_truth": "BÍCH KHOA Mọi cô gái đều thích hoa hồng NHÀ XUẤT BẢN KIM ĐỒNG TỦ SÁCH TUỔI MỚI LỚN KIM ĐỒNG"
+    },
+    {
+      "filename": "IMG_7625.jpg",
+      "ground_truth": "HUỲNH VĂN ÚT Giáo viên bồi dưỡng học sinh giỏi 500 BÀI TẬP cơ bản và nâng cao HÓA HỌC 12 Phiên bản mới nhất NHÀ XUẤT BẢN ĐỒNG NAI"
+    },
+    {
+      "filename": "2023_12_29_15_58_IMG_6047.JPG",
+      "ground_truth": "EDGAR H.SCHEIN & PETERA.SCHEIN Người dịch: Nguyễn Ngọc Thanh LÃNH ĐẠO KHIÊM CUNG SỨC MẠNH LÃNH ĐẠO BẰNG MỖI QUAN HỆ SỰ CỞI MỞ VÀ LÒNG TIN THE POWER OF RELATIONSHIPS, OPENNESS, AND TRUST HUMBLE LEADERSHIP VAN LANG CULTURE JSC NHÀ XUẤT BẢN THANH HÓA"
+    },
+    {
+      "filename": "2023_12_29_12_59_IMG_5434.JPG",
+      "ground_truth": "3-8 TUỔI Các Câu Chuyện Nhân Văn Phát Triển EQ Cho Trẻ BẠN CÙNG BÀN MỚI ĐẾN Tác giả: Liêm Đông Tinh Dịch giả: Bích Hợp Bồi dưỡng trí tuệ cảm xúc Bước qua kỳ khủng hoảng NHÀ XUẤT BẢN PHỤ NỮ VIỆT NAM"
+    },
+    {
+      "filename": "IMG_7541.jpg",
+      "ground_truth": "Th.S LÊ XUÂN SOAN (Chủ biên) - TRẦN THÌN NHỮNG BÀI LÀM VĂN MẪU LỚP 7 TẬP MỘT BỘ SÁCH CHÂN TRỜI SÁNG TẠO (Biên soạn theo chương trình giáo dục phổ thông mới) NHÀ XUẤT BẢN DÂN TRÍ"
+    },
+    {
+      "filename": "20231229_131242.jpg",
+      "ground_truth": "Nhận biết những hành vi độc hại, chống lại sự ngược đãi cảm xúc và phục hồi sau thương tổn 1980 BOOKS THAO TÚNG TÂM LÝ TRONG TÌNH YÊU MICHELLE MOORE 1980Books (Hạnh Dung dịch) NHÀ XUẤT BẢN THANH NIÊN"
+    },
+    {
+      "filename": "IMG_7890.jpg",
+      "ground_truth": "Mỹ Duy Vui học chữ Hán 1 con voi con ngựa con chuột con cóc TRÍ TUỆ LAN TỎA TRI THỨC NHÀ XUẤT BẢN THANH NIÊN"
+    },
+    {
+      "filename": "IMG_7453.jpg",
+      "ground_truth": "LUẬT PHÁ SẢN (HIỆN HÀNH) ST NHÀ XUẤT BẢN CHÍNH TRỊ QUỐC GIA SỰ THẬT"
+    },
+    {
+      "filename": "IMG_7576.jpg",
+      "ground_truth": "BỘ GIÁO DỤC VÀ ĐÀO TẠO CÔNG NGHỆ 12 GD NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM"
+    },
+    {
+      "filename": "20231229_131611.jpg",
+      "ground_truth": "DAVID R.HAWKINS MD,PHD Phạm Trúc Quỳnh dich BẢN ĐỒ TÂM THỨC 10 bài học thay đổi tần số rung động tự chữa lành và hoàn thiện bản thân 1980 BOOKS NHÀ XUẤT BẢN THANH NIÊN"
+    },
+    {
+      "filename": "2023_12_29_15_16_IMG_6217.JPG",
+      "ground_truth": "Xình xịch đến Huế Tác giả: Chiều Xuân - Líu Lo minh họa: Nguyễn Cẩm Nhung Nhà xuất bản Dân Trí Việt Nam quê mình Dành cho độ tuổi 0-3 3-6 N13H-993 Dòng sách Đọc to"
+    },
+    {
+      "filename": "2023_12_30_12_29_IMG_5714.JPG",
+      "ground_truth": "NABIL FANOUS Lưu Nguyễn Nhung dịch KỶ LUẬT NỘI TẠI Khai phá sức mạnh tâm trí, thu hút năng lượng tích cực để làm chủ vận mệnh 1980 NHÀ XUẤT BẢN DÂN TRÍ BOOKS"
+    },
+    {
+      "filename": "2023_12_29_15_51_IMG_6029.JPG",
+      "ground_truth": "HÀI NHIỀU CHÚT CHO ĐỜI VUI HƠN WHY HUMOR IS A SECRET WEAPON IN BUSINESS AND LIFE (AND HOW ANYONE CAN HARNESS IT, EVEN YOU.) HUMOR, SERIOUSLY Nguyễn Bích Trâm dịch SAIGONBOOKS NHÀ XUẤT BẢN THẾ GIỚI JENNIFER AAKER & NAOMI BAGDONAS"
+    },
+    {
+      "filename": "IMG_7423.jpg",
+      "ground_truth": "VŨ HUYỀN TRANG TRANG TRÍ TRÊN ÁO LỄ PHỤC CUNG ĐÌNH TRIỀU NGUYỄN 1802-1945 NHÀ XUẤT BẢN THẾ GIỚI TruongPhuongBooks"
+    },
+    {
+      "filename": "IMG_7413.jpg",
+      "ground_truth": "TÔN GIÁO và CHÍNH TRỊ TIẾP CẬN QUỐC TẾ VÀ VIỆT NAM GS, TS ĐỖ QUANG HƯNG NHÀ XUẤT BẢN CÔNG AN NHÂN DÂN"
+    },
+    {
+      "filename": "2023_12_29_15_59_IMG_6055.JPG",
+      "ground_truth": "SIMON HALL Người dịch: LÊ TIẾN THÀNH MARKETING TECHNOLOGY TEAM WORK MARKETING B 2 B SÁNG TẠO GROWTH ANALYTICS BUSINESS INNOVATIVEB2B MARKETING VAN LANG NHÀ XUẤT BẢN HỒNG ĐỨC CULTURE JSC"
+    },
+    {
+      "filename": "20231229_124210.jpg",
+      "ground_truth": "JOSHUA BECKER CĂN NHÀ TỐI GIẢN Phương Anh (dịch) Tối giản hóa từng không gian Để ngôi nhà trở thành tổ ấm gieo BOOKS NHÀ XUẤT BẢN LAO ĐỘNG"
+    },
+    {
+      "filename": "2023_12_29_16_14_IMG_6117.JPG",
+      "ground_truth": "NXB KINH TẾ TP. HỒ CHÍ MINH HẠO NHIÊN - QUỐC KHÁNH HIỆU ỨNG CHIM MỒI 1 Phiên bản cập nhật"
+    },
+    {
+      "filename": "20231229_123951.jpg",
+      "ground_truth": "SUSIE PEARL Thành Báo Ngọc dịch 7 Thói quen Đánh thức Tiềm năng Sáng Tạo NHÀ XUẤT BẢN THANH NIÊN"
+    },
+    {
+      "filename": "IMG_7879.jpg",
+      "ground_truth": "KIM LOAN Cat got your tongue? Snug as a bug in a rug Can't you speak? Warm and cozy 202 Thành ngữ TIẾNG ANH Giao tiếp thông dụng NHÀ XUẤT BẢN THANH NIÊN Quét mã QR để tải phần nghe TRÍ TUỆ LAN TỎA TRI THỨC"
+    },
+    {
+      "filename": "20231229_131155.jpg",
+      "ground_truth": "Lớp học tâm lý cho NGƯỜI HƯỚNG NỘI JAEHOON CHOI Nguyễn Thị Vân Anh NHÀ XUẤT BẢN DÂN TRÍ BOOKLAND TÂM LÝ HỌC ỨNG DỤNG BOOKLAND"
+    },
+    {
+      "filename": "20231228_161429.jpg",
+      "ground_truth": "VIỆT NAM DANH TÁC NGUYỄN TUÂN ngọn đèn dầu lạc nhã nam NHÀ XUẤT BẢN HỘI NHÀ VĂN"
+    }
+  ]
+}
