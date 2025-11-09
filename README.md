@@ -50,6 +50,8 @@ Nếu mọi thứ được cài đặt đúng, chương trình sẽ thực thi v
 - Nếu gặp lỗi liên quan đến **EasyOCR** hoặc **torch**, hãy đảm bảo rằng phiên bản Python và GPU driver tương thích.
 - Bạn có thể chỉnh sửa đường dẫn hoặc hình ảnh trong `Demo/simple_ocr.py` để thử nhận dạng với ảnh riêng.
 
+  
+## 🧰 6. Có thể vào walkthrouth để xem báo cáo thử nghiệm
 ---
 
 📅 _Cập nhật: Tháng 11, 2025_
