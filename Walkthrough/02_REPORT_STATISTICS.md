@@ -399,15 +399,19 @@ Metrics:
 ### Phần 3: Kết Quả
 
 ```
-Bảng 1: Kết quả so sánh các OCR engines
+Bảng 1: Kết quả so sánh các OCR engines (Dữ liệu từ evaluation_report_1762696651.json - 179 ảnh)
 
-| Engine     | F1-Score | Precision | Recall | Char Acc | Time (s) |
-|------------|----------|-----------|--------|----------|----------|
-| EasyOCR    | 85.37%   | 91.24%    | 81.02% | 79.84%   | 4.52     |
-| Tesseract  | 72.31%   | 78.45%    | 68.12% | 65.43%   | 1.23     |
-| DocTR      | 68.92%   | 74.23%    | 64.58% | 62.11%   | 3.87     |
-| Keras OCR  | 45.67%   | 52.34%    | 41.23% | 55.73%   | 28.45    |
-| GOCR       | 32.15%   | 41.56%    | 26.78% | 38.92%   | 0.89     |
+| Engine                  | F1-Score | Precision | Recall | Char Acc | Time (s) |
+|-------------------------|----------|-----------|--------|----------|----------|
+| EasyOCR                 | 49.83%   | 51.45%    | 50.01% | 56.35%   | 5.74     |
+| EasyOCR (preprocessed)  | 49.45%   | 51.59%    | 49.29% | 58.69%   | 6.22     |
+| Tesseract               | 22.96%   | 21.28%    | 29.78% | 35.52%   | 5.01     |
+| Tesseract (preprocessed)| 17.47%   | 14.40%    | 27.64% | 29.94%   | 7.58     |
+| DocTR                   | 22.80%   | 22.34%    | 24.29% | 55.39%   | 3.59     |
+| DocTR (preprocessed)    | 22.80%   | 22.34%    | 24.29% | 55.39%   | 3.50     |
+| Keras OCR               | 17.95%   | 17.71%    | 18.68% | 42.45%   | 30.14    |
+
+**Ghi chú:** Kết quả tính trung bình trên 179 ảnh bìa sách tiếng Việt phức tạp với nhiều font chữ, màu sắc, và hiệu ứng đặc biệt.
 
 (Xem Hình 1: engine_comparison_*_detailed_bars.png)
 ```
@@ -415,18 +419,30 @@ Bảng 1: Kết quả so sánh các OCR engines
 ### Phần 4: Thảo Luận
 
 ```
-EasyOCR đạt F1-Score cao nhất (85.37%), vượt trội so với các engines khác.
-Precision của EasyOCR đạt 91.24%, cho thấy tỷ lệ false positive thấp.
-Tuy nhiên, thời gian xử lý của EasyOCR (4.52s) chậm hơn Tesseract (1.23s) 
-gấp 3.7 lần.
+EasyOCR đạt F1-Score cao nhất (49.83%), vượt trội so với các engines khác trên 
+dataset 179 ảnh bìa sách tiếng Việt phức tạp. Precision của EasyOCR đạt 51.45%, 
+cho thấy tỷ lệ false positive tương đối thấp. Preprocessing không cải thiện 
+nhiều cho EasyOCR (F1 giảm nhẹ từ 49.83% xuống 49.45%).
 
-Tesseract có trade-off tốt giữa accuracy (F1=72.31%) và speed (1.23s), 
-phù hợp cho ứng dụng real-time.
+Tesseract có F1-Score thấp (22.96%), không phù hợp với bìa sách có nhiều 
+hiệu ứng và font chữ phức tạp. Preprocessing còn làm giảm hiệu suất 
+(F1=17.47%), cho thấy engine này phụ thuộc nhiều vào chất lượng ảnh gốc.
 
-Keras OCR và GOCR cho kết quả kém, không phù hợp với bìa sách tiếng Việt.
+DocTR có F1-Score tương đương Tesseract (22.80%), mặc dù Character Accuracy 
+cao hơn (55.39% vs 35.52%). Điều này cho thấy DocTR nhận dạng ký tự tốt nhưng 
+gặp khó khăn trong việc nhận dạng từ hoàn chỉnh.
 
-Dataset gồm 200 ảnh bìa sách đa dạng về font chữ, màu sắc, và layout,
-đại diện tốt cho các loại bìa sách thực tế tại Việt Nam.
+Keras OCR cho kết quả thấp nhất (F1=17.95%) và chậm nhất (30.14s), không 
+phù hợp cho ứng dụng thực tế với dataset này.
+
+**Trade-off Speed vs Accuracy:**
+- EasyOCR: Best accuracy (F1=49.83%) với thời gian chấp nhận được (5.74s)
+- DocTR: Nhanh nhất (3.59s) nhưng accuracy thấp (F1=22.80%)
+- Tesseract: Thời gian trung bình (5.01s) với accuracy thấp (F1=22.96%)
+- Keras OCR: Chậm nhất (30.14s) và accuracy thấp (F1=17.95%)
+
+Dataset gồm 179 ảnh bìa sách đa dạng về font chữ, màu sắc, hiệu ứng đặc biệt,
+và layout phức tạp, đại diện tốt cho các loại bìa sách thực tế tại Việt Nam.
 
 (Xem Hình 2: engine_comparison_*_speed_vs_accuracy.png)
 ```
@@ -434,13 +450,21 @@ Dataset gồm 200 ảnh bìa sách đa dạng về font chữ, màu sắc, và l
 ### Phần 5: Kết Luận
 
 ```
-Nghiên cứu đã so sánh 5 OCR engines trên dataset 200 ảnh bìa sách tiếng Việt.
-EasyOCR đạt accuracy cao nhất với F1-Score 85.37%, phù hợp cho ứng dụng 
-yêu cầu độ chính xác cao. Tesseract là lựa chọn tốt cho ứng dụng real-time 
-với F1-Score 72.31% và thời gian xử lý nhanh (1.23s).
+Nghiên cứu đã so sánh 5 OCR engines (với biến thể preprocessing) trên dataset 
+179 ảnh bìa sách tiếng Việt có độ phức tạp cao.
 
-Khuyến nghị: Sử dụng EasyOCR cho digitization projects, Tesseract cho 
-real-time applications.
+EasyOCR đạt accuracy cao nhất với F1-Score 49.83%, phù hợp cho ứng dụng 
+yêu cầu độ chính xác cao trong nhận dạng văn bản tiếng Việt trên bìa sách.
+Preprocessing không cải thiện đáng kể hiệu suất cho EasyOCR.
+
+DocTR là lựa chọn tốt cho ứng dụng real-time với thời gian xử lý nhanh nhất 
+(3.59s), mặc dù F1-Score chỉ đạt 22.80%. Character Accuracy cao (55.39%) 
+cho thấy tiềm năng nếu cải thiện thuật toán word-level recognition.
+
+Khuyến nghị: 
+- Sử dụng EasyOCR cho digitization projects (độ chính xác ưu tiên)
+- Sử dụng DocTR cho real-time applications (tốc độ ưu tiên)
+- Tesseract và Keras OCR không phù hợp với loại dataset này
 ```
 
 ---
